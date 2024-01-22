@@ -2,11 +2,11 @@
 
 <div align="right">
 
-<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span>
+<!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 26 de diciembre de 2023 al 1 de enero de 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del  01 de enero al 07 enero del 2024:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -110,7 +110,9 @@
 
 <!-- Se normaliza la medida y se está construyendo la línea base movil para futuras referencias. -->
 
-<!--## BC 459 - Campo Alegre -->
+## BC 459 - Campo Alegre
+
+- Se reportan consumos nocturnos para los días 4 y 5 de enero en el sistema de aire acondicionado.
 
 <!--## BC 495 - El Bosque -->
 
@@ -193,7 +195,9 @@
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-<!-- ## BC 793 - Profesionales -->
+## BC 793 - Profesionales
+
+- Se detectó un cambio en el patrón de consumo de energía a partir del 3 de enero. Favor de verificar si hubo trabajos operativos en la sede durante ese periodo.
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
