@@ -6,25 +6,31 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del  08 de enero al 14 enero del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del  15 de enero al 21 enero del 2024:
 
-<!-- ## BC 044 - Piedecuesta -->
+## BC 044 - Piedecuesta
+
+- Se presenta un cambio en el patrón de consumo en el sistema de AA entre el 15 y el 18 de enero. Se sugiere validar si en dicho periodo se presentaron trabajos en la sede.
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-<!--## BC 061 - Carrera Primera
+## BC 061 - Carrera Primera
 
-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
+- La sede presenta un aumento en el consumo de energía en comparación con la línea base de referencia. Se sugiere validar la automatización de los aires acondicionados.
+
+<!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
 ## BC 66 - Palmira
 
 - Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 22 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
 
+- Se sugiere validar el consumo de los aires acondicionados durante las horas nocturnas, para asegurarse de que cumplan con el estándar del banco.
+
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
 
 ## BC 78 - El Cacique 
 
-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 20 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
 
 <!--## BC 88 - Cúcuta
 
@@ -34,7 +40,7 @@
 
 ## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
+- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
 - Se debe validar la automatización de los aires acondicionados durante los fines de semana, ya que están mostrando consumos de energía elevados
 
@@ -74,15 +80,15 @@
 
 - El sistema de aire acondicionado (AA) en la sede operó el sábado 23 de septiembre. Se debe validar no se presentaron trabajos  en la sede durante ese día. lo que representa un 29 % de aumento respecto a la línea base. --> 
 
-## BC 306 - Barrancabermeja 
+<!-- ## BC 306 - Barrancabermeja 
 
 - El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
-<!--  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
+ Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-## BC 311 - Bello
+<!--## BC 311 - Bello
 
-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
@@ -199,9 +205,9 @@
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-## BC 793 - Profesionales
+<!--## BC 793 - Profesionales
 
-- Se detectó un cambio en el patrón de consumo de energía a partir del 3 al 13 de enero. Se recomienda verificar si hubo trabajos operativos en la sede durante ese periodo.
+- Se detectó un cambio en el patrón de consumo de energía a partir del 3 al 13 de enero. Se recomienda verificar si hubo trabajos operativos en la sede durante ese periodo. -->
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
@@ -213,9 +219,7 @@
 
 <!-- ## BC 799 - Floridablanca -->
 
-## BC 816 - Calle 10
-
-- Se ha detectado una novedad en el sistema de aire acondicionado estuvo encendido durante el horario nocturno 14 de enero.
+<!-- ## BC 816 - Calle 10 -->
 
 <!-- ## BC 824 - Ventura Plaza -->
 
