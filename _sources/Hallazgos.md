@@ -6,11 +6,9 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del  15 de enero al 21 enero del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 22 de enero al 29 enero del 2024:
 
-## BC 044 - Piedecuesta
-
-- Se presenta un cambio en el patrón de consumo en el sistema de AA entre el 15 y el 18 de enero. Se sugiere validar si en dicho periodo se presentaron trabajos en la sede.
+<!-- ## BC 044 - Piedecuesta -->
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
@@ -24,7 +22,6 @@
 
 - Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 22 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
 
-- Se sugiere validar el consumo de los aires acondicionados durante las horas nocturnas, para asegurarse de que cumplan con el estándar del banco.
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
 
@@ -40,9 +37,9 @@
 
 ## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
+- Se presenta un cambio en el patrón de consumo a partir del 24 de enero. Se sugiere validar si en la sede se llevaron a cabo trabajos.
 
-- Se debe validar la automatización de los aires acondicionados durante los fines de semana, ya que están mostrando consumos de energía elevados
+ <!-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
@@ -60,7 +57,7 @@
 
 ## BC 210 - Banca Colombia Cartagena
 
-- Se ha observado una disminución en el consumo de energía en la sede debido a labores de mantenimiento operativo que se estaban llevando a cabo.
+- Se ha observado una disminución en el consumo de energía en la sede debido a labores de mantenimiento operativo que se estaban llevando a cabo desde el 29 de noviembre.
 
 <!-- - Se presenta un cambio en el patrón de consumo a partir del 17 marzo, se apaga cargas se corrige novedad cargas encendidas a partir del 28 febrero. -->
 
@@ -100,7 +97,7 @@
 
 ## BC 424 - Honda
 
-- Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio.
+- Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio. 
 
 <!--  El sistema de AA opera el 16 de octubre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación.
 
@@ -124,7 +121,9 @@
  
 <!-- ## BC 459 - Campo Alegre -->
 
-<!--## BC 495 - El Bosque -->
+## BC 495 - El Bosque
+
+- Se presentan consumos nocturnos en el sistema de aire acondicionado, los cuales quedan encendidos durante la noche. Se sugiere validar si se están llevando a cabo trabajos operativos a partir del 29 de enero.
 
 <!-- ## BC 496 - Iwanna
 
@@ -205,9 +204,9 @@
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-<!--## BC 793 - Profesionales
+## BC 793 - Profesionales
 
-- Se detectó un cambio en el patrón de consumo de energía a partir del 3 al 13 de enero. Se recomienda verificar si hubo trabajos operativos en la sede durante ese periodo. -->
+- Se registran consumos nocturnos en la carga del aire acondicionado. Para el 29 de enero, se sugiere validar si no se llevaron a cabo trabajos operativos.
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
