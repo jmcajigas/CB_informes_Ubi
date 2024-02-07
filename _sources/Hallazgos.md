@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 22 de enero al 29 enero del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 29 de enero al 5 febrero del 2024:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -14,7 +14,9 @@
 
 ## BC 061 - Carrera Primera
 
-- La sede presenta un aumento en el consumo de energía en comparación con la línea base de referencia. Se sugiere validar la automatización de los aires acondicionados.
+- La sede ha experimentado un cambio en el patrón de consumo a partir del 5 de febrero.
+
+- La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
@@ -27,7 +29,7 @@
 
 ## BC 78 - El Cacique 
 
-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+- Se observó una mejora en el control del aire  ya que su consumo disminuye a las 19:00 horas. Dado a que se tenia novedad que la disminución ocurría a las 21:00 horas.
 
 <!--## BC 88 - Cúcuta
 
@@ -37,7 +39,7 @@
 
 ## BC 185 - Llano Grande Palmira
 
-- Se presenta un cambio en el patrón de consumo a partir del 24 de enero. Se sugiere validar si en la sede se llevaron a cabo trabajos.
+- Se presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero. Se sugiere validar si en la sede se llevaron a cabo trabajos.
 
  <!-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
@@ -95,9 +97,9 @@
 
 <!-- ## BC 398 - Mariquita -->
 
-## BC 424 - Honda
+<!-- ## BC 424 - Honda
 
-- Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio. 
+- Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio. pendiente para fase 2 -->
 
 <!--  El sistema de AA opera el 16 de octubre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación.
 
@@ -123,7 +125,7 @@
 
 ## BC 495 - El Bosque
 
-- Se presentan consumos nocturnos en el sistema de aire acondicionado, los cuales quedan encendidos durante la noche. Se sugiere validar si se están llevando a cabo trabajos operativos a partir del 29 de enero.
+- Se presentan consumos nocturnos en el sistema de aire acondicionado, los cuales quedan encendidos durante la noche por trabajos en la sede hasta el 2 febrero. Se normalizan los consumos en la sede.
 
 <!-- ## BC 496 - Iwanna
 
@@ -206,7 +208,7 @@
 
 ## BC 793 - Profesionales
 
-- Se registran consumos nocturnos en la carga del aire acondicionado. Para el 29 de enero, se sugiere validar si no se llevaron a cabo trabajos operativos.
+- Se registran consumos nocturnos en la carga del aire acondicionado dek 29 enero al 3 febrero, se sugiere validar si no se llevaron a cabo trabajos operativos.
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
