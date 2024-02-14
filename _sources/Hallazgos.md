@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 29 de enero al 5 febrero del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 5 al 11 febrero del 2024:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -22,7 +22,7 @@
 
 ## BC 66 - Palmira
 
-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 22 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+- Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas.
 
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
@@ -39,7 +39,7 @@
 
 ## BC 185 - Llano Grande Palmira
 
-- Se presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero. Se sugiere validar si en la sede se llevaron a cabo trabajos.
+- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado.
 
  <!-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
@@ -113,9 +113,9 @@
 
 - Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
-<!-- ## BC 454 - Quinta Avenida
+## BC 454 - Quinta Avenida
 
-- Se ha registrado una disminución en el patrón de consumo a partir del 29 de noviembre. -->
+- Es necesario verificar la automatización del sistema de aire acondicionado, ya que se observa un consumo nocturno diferente entre semana.
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -125,11 +125,11 @@
 
 ## BC 495 - El Bosque
 
-- Se presentan consumos nocturnos en el sistema de aire acondicionado, los cuales quedan encendidos durante la noche por trabajos en la sede hasta el 2 febrero. Se normalizan los consumos en la sede.
+- Se evidencia una diferencia del consumo promedio diario de 18.34 kWh/dia, lo que representa un 7 % de aumento respecto a la línea base.La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.
 
-<!-- ## BC 496 - Iwanna
+## BC 496 - Iwanna
 
-- Se ha detectado un cambio en el patrón de consumo a partir del 30 de noviembre. Se sugiere validar la automatización del sistema durante las horas nocturnas, ya que se observó un aumento en el consumo de aire acondicionado de 2 kWh promedio. -->
+- Se evidencia una diferencia del consumo promedio diario de 16.77 kWh/dia, lo que representa un 6 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
@@ -143,7 +143,9 @@
 
 <!-- sin datos desde marzo 7 -->
 
-<!-- ## BC 534 - Buganviles -->
+## BC 534 - Buganviles
+
+- Se evidencia una diferencia del consumo promedio diario de 42.21 kWh/dia, lo que representa un 25 % de aumento respecto a la línea base.
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -180,20 +182,19 @@
 
 - Se presenta una novedad en la sede a partir del 28 de septiembre, donde la carga de aire acondicionado es mayor que la del totalizador. Se debe validar la corriente L2 de la medida totalizadora.
 
-<!-- ## BC 764 - Jamundí
+## BC 764 - Jamundí
 
-- Se corrige la novedad del sistema de aire acondicionado que operaba durante los fines de semana (SÁBADO-DOMINGO). Los consumos se han estabilizado para los fines de semana. -->
+- Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.
 
 <!--  ## BC 776 - Lebrija -->
 
+## BC 784 - Centro Colon
 
-<!-- ## BC 784 - Centro Colon
+Se evidencia una diferencia del consumo promedio diario de 42.21 kWh/dia, lo que representa un 19 % de disminución respecto a la línea base.
 
-- La sede presenta consumos nocturnos el 14 y 15 de diciembre. Se sugiere validar si no se llevaron a cabo trabajos en la sede. -->
+## BC 787 - Bocagrande Carrera Tercera
 
-<!-- ## BC 787 - Bocagrande Carrera Tercera
-
-- El consumo de la sede se normaliza a partir del 14 noviembre. -->
+- Se evidencia una diferencia del consumo promedio diario de 62.12 kWh/dia, lo que representa un 15 % de aumento respecto a la línea base.
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". -->
 
@@ -206,9 +207,9 @@
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-## BC 793 - Profesionales
+<!--## BC 793 - Profesionales
 
-- Se registran consumos nocturnos en la carga del aire acondicionado dek 29 enero al 3 febrero, se sugiere validar si no se llevaron a cabo trabajos operativos.
+-->
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
@@ -218,7 +219,9 @@
 
 <!-- La sede no opera durante el festivo del 20 de julio. Sin embargo, se han registrado consumos inusuales en días festivos previos. -->
 
-<!-- ## BC 799 - Floridablanca -->
+## BC 799 - Floridablanca
+
+- Se evidencia una diferencia del consumo promedio diario de 8.99 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base.
 
 <!-- ## BC 816 - Calle 10 -->
 
