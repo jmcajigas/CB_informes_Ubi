@@ -12,11 +12,11 @@
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-## BC 061 - Carrera Primera
+<!-- ## BC 061 - Carrera Primera
 
-- La sede ha experimentado un cambio en el patrón de consumo a partir del 5 de febrero.
+-El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
 
-- La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.
+- La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.-->
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
@@ -30,15 +30,13 @@
 
 ## BC 78 - El Cacique 
 
-- La sede presenta novedad en el apagado de los aires a las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+- La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
 
 <!--## BC 88 - Cúcuta
 
 - Se han identificado altos consumos en la carga de aire. Se debe validar las cargas del sistema de aire y estar pendiente de una visita técnica. Además, se registran consumos para el 21 de agosto; se debe verificar si se llevaron a cabo trabajos en la sede en esa fecha. -->
 
-## BC 90 - Megamall
-
-- La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+<!-- ## BC 90 - Megamall -->
 
 <!-- ## BC 185 - Llano Grande Palmira
 
@@ -118,7 +116,7 @@
 
 ## BC 453 - Pitalito
 
-- Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.
 
 ## BC 454 - Quinta Avenida
 
