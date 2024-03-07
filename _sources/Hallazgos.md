@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 19 al 25 febrero del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 26 febrero al 03 marzo del 2024:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -20,9 +20,9 @@
 
 <!-- Se normaliza la novedad en la carga de aire acondicionado fuera del horario laboral a partir del 25 de noviembre, lo que resultará en una disminución en el consumo de energía y se reflejará en ahorros.-->
 
-## BC 66 - Palmira
+<!--## BC 66 - Palmira
 
-- El sistema de aire acondicionado queda encendido para el 21 de febrero. Se sugiere revisar si no se han presentado trabajos nocturnos.
+- El sistema de aire acondicionado queda encendido para el 21 de febrero. Se sugiere revisar si no se han presentado trabajos nocturnos. -->
 <!--  Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas. -->
 
 
@@ -48,9 +48,9 @@
 
 ## BC 197 - Guatapuri
 
-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+ <!-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora. -->
+- La sede para esta semana normaliza la novedad del apagado del aire pasando de las 21 horas a las 19 horas, patrón de consumo mas estable.
 
-- Se evidencia una diferencia del consumo promedio diario de 22.18 kWh/dia, lo que representa un 8 % de disminución respecto a la línea base.
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
@@ -74,9 +74,11 @@
 
 - Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede. -->
 
-<!-- ## BC 291 - Las Palmas
+## BC 291 - Las Palmas
 
-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
+- Se evidencia una diferencia del consumo promedio diario de 45.85 kWh/dia, lo que representa un 16 % de aumento respecto a la línea base. Se debe validar los consumos nocturnos.
+
+<!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
 
@@ -100,7 +102,9 @@
 
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
-<!-- ## BC 398 - Mariquita -->
+## BC 398 - Mariquita
+
+- Se evidencia una disminución en el consumo nocturno del 4%, respecto a la linea base.
 
 <!-- ## BC 424 - Honda
 
@@ -114,35 +118,35 @@
 
 <!--consume mas el aire acondicionado que la medida de la frontera / pendiente reporar -->
 
-## BC 453 - Pitalito
+<!-- ## BC 453 - Pitalito
 
-- Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.
+- Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
 
-## BC 454 - Quinta Avenida
+<!--## BC 454 - Quinta Avenida
 
-- Es necesario verificar la automatización del sistema de aire acondicionado, ya que se observa un consumo nocturno diferente entre semana.
+- Es necesario verificar la automatización del sistema de aire acondicionado, ya que se observa un consumo nocturno diferente entre semana. -->
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
 <!-- Se normaliza la medida y se está construyendo la línea base movil para futuras referencias. -->
  
-## BC 459 - Campo Alegre
+<!--## BC 459 - Campo Alegre
 
-- Se evidencia una diferencia del consumo promedio diario de 32.41 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 32.41 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base.-->
 
-## BC 495 - El Bosque
+<!--## BC 495 - El Bosque
 
-- La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.
+- La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos. -->
 
 ## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 10.95 kWh/dia, lo que representa un 4 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 26.22 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
 ## BC 514 - Centro Comercial Único
 
-- El sistema de aire acondicionado queda encendido para el 23 y 24  de febrero. Se sugiere revisar si no se han presentado trabajos nocturnos.
+- El sistema de aire acondicionado queda encendido para el 26 de febrero y 3 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
 
 - Se evidencia una diferencia del consumo promedio diario de 37.31 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
 
@@ -154,7 +158,7 @@
 
 ## BC 534 - Buganviles
 
-- Se evidencia una diferencia del consumo promedio diario de 53.93 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 48.28 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base.
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -176,9 +180,9 @@
 - Se ha detectado una novedad en el sistema de aire acondicionado estuvo encendido durante el horario nocturno los días 30 y 31 de octubre. -->
 
 
-<!-- ## BC 705 - El Bagre
+## BC 705 - El Bagre
 
-- Se debe verificar el apagado del aire acondicionado, el cual se realizó a las 20:00 horas para estra semana. Se sugiere que el apagado se realice a las 18:00 horas. recomendación-->
+- El sistema de aire acondicionado queda encendido para el 26 y 27 de febrero. Se sugiere revisar si no se han presentado trabajos nocturnos.
 
 
 <!-- ## BC 741 - Calima -->
@@ -199,11 +203,12 @@
 
 ## BC 784 - Centro Colon
 
-- Se evidencia una diferencia del consumo promedio diario de 34.09 kWh/dia, lo que representa un 15 % de disminución respecto a la línea base.
+- SSe evidencia una diferencia del consumo promedio diario de 31.83 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base.
 
-<!-- ## BC 787 - Bocagrande Carrera Tercera
+## BC 787 - Bocagrande Carrera Tercera
 
-- Se evidencia una diferencia del consumo promedio diario de 62.12 kWh/dia, lo que representa un 15 % de aumento respecto a la línea base. -->
+- El sistema de aire acondicionado queda encendido desde el  28 de febrero al 1 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
+
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". -->
 
@@ -216,9 +221,9 @@
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-## BC 793 - Profesionales
+<!-- ## BC 793 - Profesionales
 
-- Se evidencia una diferencia del consumo promedio diario de 48.64 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base. Cambio en el patrón de consumo. Se sugiere validar la automatización de los aires acondicionados
+- Se evidencia una diferencia del consumo promedio diario de 48.64 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base. Cambio en el patrón de consumo. Se sugiere validar la automatización de los aires acondicionados-->
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
