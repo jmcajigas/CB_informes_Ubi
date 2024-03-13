@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 26 febrero al 03 marzo del 2024:
+- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 03 al 10 marzo del 2024:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -28,15 +28,17 @@
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
 
-## BC 78 - El Cacique 
+<!--## BC 78 - El Cacique 
 
-- La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+- La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
 
-<!--## BC 88 - Cúcuta
+## BC 88 - Cúcuta
 
-- Se han identificado altos consumos en la carga de aire. Se debe validar las cargas del sistema de aire y estar pendiente de una visita técnica. Además, se registran consumos para el 21 de agosto; se debe verificar si se llevaron a cabo trabajos en la sede en esa fecha. -->
+- Se evidencia una diferencia del consumo promedio diario de 4.75 kWh/dia, lo que representa un 3 % de disminución respecto a la línea base.
 
-<!-- ## BC 90 - Megamall -->
+## BC 90 - Megamall
+
+- La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas.
 
 <!-- ## BC 185 - Llano Grande Palmira
 
@@ -50,6 +52,8 @@
 
  <!-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora. -->
 - La sede para esta semana normaliza la novedad del apagado del aire pasando de las 21 horas a las 19 horas, patrón de consumo mas estable.
+
+- Se evidencia una diferencia del consumo promedio diario de 15.75 kWh/dia, lo que representa un 6 % de disminución respecto a la línea base. La sede cambia patrón de consumo a partir del 8 marzo.
 
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
@@ -76,7 +80,7 @@
 
 ## BC 291 - Las Palmas
 
-- Se evidencia una diferencia del consumo promedio diario de 45.85 kWh/dia, lo que representa un 16 % de aumento respecto a la línea base. Se debe validar los consumos nocturnos.
+- Se evidencia una diferencia del consumo promedio diario de 60.69 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se debe validar los consumos nocturnos.
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
@@ -98,13 +102,15 @@
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
-<!--## BC 371 - Caucasia -->
+## BC 371 - Caucasia
+
+- El sistema de aire acondicionado queda encendido para el 4 y 5 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos. Adicional la sede cambia patrón consumo en las horas del medio día.
 
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
-## BC 398 - Mariquita
+<!-- ## BC 398 - Mariquita
 
-- Se evidencia una disminución en el consumo nocturno del 4%, respecto a la linea base.
+- Se evidencia una disminución en el consumo nocturno del 4%, respecto a la linea base.-->
 
 <!-- ## BC 424 - Honda
 
@@ -140,15 +146,15 @@
 
 ## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 26.22 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 44.22 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base, debido a un cambio en su patrón de consumo.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
-## BC 514 - Centro Comercial Único
+<!--## BC 514 - Centro Comercial Único
 
 - El sistema de aire acondicionado queda encendido para el 26 de febrero y 3 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
 
-- Se evidencia una diferencia del consumo promedio diario de 37.31 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 37.31 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.-->
 
 ## BC 523 - Olímpica
 
@@ -156,9 +162,7 @@
 
 <!-- sin datos desde marzo 7 -->
 
-## BC 534 - Buganviles
-
-- Se evidencia una diferencia del consumo promedio diario de 48.28 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base.
+<!-- ## BC 534 - Buganviles -->
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -182,7 +186,7 @@
 
 ## BC 705 - El Bagre
 
-- El sistema de aire acondicionado queda encendido para el 26 y 27 de febrero. Se sugiere revisar si no se han presentado trabajos nocturnos.
+- La sede para esta semana normaliza la novedad del apagado del aire pasando de las 20 horas a las 19 horas.
 
 
 <!-- ## BC 741 - Calima -->
