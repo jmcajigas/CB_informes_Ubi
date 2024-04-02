@@ -6,7 +6,7 @@
 
 </div>
 
-- Observaciones del monitoreo de energía en las sucursales de Bancolombia durante la semana del 18 al 24 marzo del 2024:
+- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 25 al 31 de marzo. Durante este período, se observa una notable disminución en el consumo de energía debido a la celebración de varios festivos por Semana Santa:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -40,9 +40,11 @@
 
 - La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas. -->
 
-<!-- ## BC 185 - Llano Grande Palmira
+## BC 185 - Llano Grande Palmira
 
-- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado. -->
+- Se debe revisar la automatización del sistema AA para los días festivos.
+
+<!-- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado. -->
 
  <!-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
@@ -52,7 +54,9 @@
 
  <!-- Se ha observado que el sistema de aire acondicionado reduce su consumo significativamente después de las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora. -->
 
-- La sede volvio a cambiar su patrón de consumo a partir del 8 marzo , lo cual se recomienda validar si se presentaron trabajos en la sede. Se presenta mayor consumo de energía para las horas nocturnas los domingos se sugiere validar sistema AA.
+- Se evidencia una diferencia del consumo promedio diario de 13.21 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. Se debe revisar la automatización del sistema AA para los días festivos.
+
+ <!--La sede volvio a cambiar su patrón de consumo a partir del 8 marzo , lo cual se recomienda validar si se presentaron trabajos en la sede. Se presenta mayor consumo de energía para las horas nocturnas los domingos se sugiere validar sistema AA.
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
@@ -78,9 +82,9 @@
 
 - Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede. -->
 
-## BC 291 - Las Palmas
+<!-- ## BC 291 - Las Palmas
 
-- Se evidencia una diferencia del consumo promedio diario de 56.32 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base. Se debe validar los consumos nocturnos.
+- Se evidencia una diferencia del consumo promedio diario de 56.32 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base. Se debe validar los consumos nocturnos. -->
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
@@ -90,21 +94,22 @@
 
 - El sistema de aire acondicionado (AA) en la sede operó el sábado 23 de septiembre. Se debe validar no se presentaron trabajos  en la sede durante ese día. lo que representa un 29 % de aumento respecto a la línea base. --> 
 
-<!-- ## BC 306 - Barrancabermeja 
+## BC 306 - Barrancabermeja 
+ 
+- Se evidencia una diferencia del consumo promedio diario de 6.41 kWh/dia, lo que representa un 2 % de aumento respecto a la línea base. Se debe revisar la automatización del sistema AA para los días festivos.
 
-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
+<!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-<!--## BC 311 - Bello
+<!-- ## BC 311 - Bello -->
 
-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
+<!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
-## BC 371 - Caucasia
+<!-- ## BC 371 - Caucasia -->
 
-- El sistema de aire acondicionado queda encendido para el 19 y 20 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
 <!-- ## BC 398 - Mariquita
@@ -178,9 +183,9 @@
 <!-- Se evidencia una diferencia del consumo promedio diario de 62.21 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base. La sede presentaba observación cambio patron de consumo por ajuste equipo AA y termostato, validar si se presentaron modificaciones al respecto. -->
 
 
-## BC 678 - Paseo de la Castellana
+<!--## BC 678 - Paseo de la Castellana
 
-- Se evidencia una diferencia del consumo promedio diario de 38.78 kWh/dia, lo que representa un 14 % de aumento respecto a la línea base. Cambia el patrón de consumo en las horas nocturnas se debe validar la automatización de los AA.
+- Se evidencia una diferencia del consumo promedio diario de 38.78 kWh/dia, lo que representa un 14 % de aumento respecto a la línea base. Cambia el patrón de consumo en las horas nocturnas se debe validar la automatización de los AA.-->
 
 
 <!-- ## BC 705 - El Bagre
@@ -194,19 +199,19 @@
 
 <!-- ## BC 749 - Santa Monica -->
 
-## BC 750 - Roosevelt
+<!-- ## BC 750 - Roosevelt
 
-- Se presenta una novedad en la sede a partir del 28 de septiembre, donde la carga de aire acondicionado es mayor que la del totalizador. Se debe validar la corriente L2 de la medida totalizadora.
-
+- Se presenta una novedad en la sede a partir del 28 de septiembre, donde la carga de aire acondicionado es mayor que la del totalizador. Se debe validar la corriente L2 de la medida totalizadora. -->
+ 
 <!-- ## BC 764 - Jamundí
 
 - Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.-->
 
 <!--  ## BC 776 - Lebrija -->
 
- ## BC 784 - Centro Colon
+ <!-- ## BC 784 - Centro Colon
 
- - El sistema de aire acondicionado queda encendido para el 20 y 21 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
+ - El sistema de aire acondicionado queda encendido para el 20 y 21 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos. -->
 
 <!-- SSe evidencia una diferencia del consumo promedio diario de 31.83 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. -->
 
@@ -246,9 +251,9 @@
 
 - Se evidencia una diferencia del consumo promedio diario de 35.79 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base. -->
 
-## BC 816 - Calle 10
+<!-- ## BC 816 - Calle 10
 
-- Se evidencia una diferencia del consumo promedio diario de 89.88 kWh/dia, lo que representa un 37 % de aumento respecto a la línea base. La sede presento cambio patrón del consumo a partir del 8 marzo.
+- Se evidencia una diferencia del consumo promedio diario de 89.88 kWh/dia, lo que representa un 37 % de aumento respecto a la línea base. La sede presento cambio patrón del consumo a partir del 8 marzo. -->
 
 <!-- ## BC 824 - Ventura Plaza
 
@@ -264,11 +269,13 @@
 
 <!-- ## BC 863 - Los Patios
 
-- Se evidencia que la sede disminuyó su patrón de consumo a partir del 14 de noviembre. Se sugiere validar las acciones que se llevaron a cabo.
+- Se evidencia que la sede disminuyó su patrón de consumo a partir del 14 de noviembre. Se sugiere validar las acciones que se llevaron a cabo. -->
 
 ## BC S.A Valledupar
 
-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede. -->
+- Se debe revisar la automatización del sistema AA para los días festivos.
+
+<!-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede. -->
 
 <!--novedad en la carga de aire alto consumo-->
 
