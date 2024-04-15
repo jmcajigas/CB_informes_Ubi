@@ -6,7 +6,7 @@
 
 </div>
 
-- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 1 al 7 de abril:
+- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 8 al 14 de abril:
 
 <!-- ## BC 044 - Piedecuesta -->
 
@@ -34,15 +34,17 @@
 
 <!--## BC 88 - Cúcuta
 
-- Se evidencia una diferencia del consumo promedio diario de 4.75 kWh/dia, lo que representa un 3 % de disminución respecto a la línea base.-->
+- Se evidencia una diferencia del consumo promedio diario de 4.75 kWh/dia, lo que representa un 3 % de disminución respecto a la línea base.
+
+la carga de aire muy alta se debe revisar-->
 
 <!--## BC 90 - Megamall
 
 - La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas. -->
 
-<!--## BC 185 - Llano Grande Palmira
+## BC 185 - Llano Grande Palmira
 
-- Se debe revisar la automatización del sistema AA para los días festivos.-->
+- Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas.
 
 <!-- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado. -->
 
@@ -50,9 +52,9 @@
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
-<!--## BC 197 - Guatapuri
+## BC 197 - Guatapuri
 
-recomienda validar si se presentaron trabajos en la sede. Se presenta mayor consumo de energía para las horas nocturnas los domingos se sugiere validar sistema AA.
+- La sede presenta novedad en el apagado de los aires a las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
@@ -78,17 +80,17 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 - Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede. -->
 
-<!-- ## BC 291 - Las Palmas
+## BC 291 - Las Palmas
 
-- Se evidencia una diferencia del consumo promedio diario de 56.32 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base. Se debe validar los consumos nocturnos. -->
+- La sede ha experimentado un cambio en su patrón de consumo energético, evidenciado por una diferencia de 54.71 kWh/día en el consumo promedio diario. Esto representa un aumento del 18 % en comparación con la línea base.
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
 
-<!-- ## BC 302 - Quebrada Seca
+## BC 302 - Quebrada Seca
 
-- El sistema de aire acondicionado (AA) en la sede operó el sábado 23 de septiembre. Se debe validar no se presentaron trabajos  en la sede durante ese día. lo que representa un 29 % de aumento respecto a la línea base. --> 
+- El sistema de aire acondicionado operó el domingo 14 de abril. Se debe validar no se presentaron trabajos  en la sede durante ese día.
 
 <!--## BC 306 - Barrancabermeja 
  
@@ -146,7 +148,7 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 ## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 9.04 kWh/dia, lo que representa un 3 % de aumento respecto a la línea base. Se debe revisar los consumos nocturnos.
+- Se evidencia una diferencia del consumo promedio diario de 22.60 kWh/dia, lo que representa un 9 % de aumento respecto a la línea base. Se debe revisar los consumos nocturnos.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
@@ -162,9 +164,9 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 <!-- sin datos desde marzo 7 -->
 
-## BC 534 - Buganviles
+<!-- ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado queda encendido para el 4 y 5 marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
+- El sistema de aire acondicionado queda encendido para el 4 y 5 marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.-->
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -181,14 +183,14 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 <!-- Se evidencia una diferencia del consumo promedio diario de 62.21 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base. La sede presentaba observación cambio patron de consumo por ajuste equipo AA y termostato, validar si se presentaron modificaciones al respecto. -->
 
 
-<!--## BC 678 - Paseo de la Castellana
+## BC 678 - Paseo de la Castellana
 
-- Se evidencia una diferencia del consumo promedio diario de 38.78 kWh/dia, lo que representa un 14 % de aumento respecto a la línea base. Cambia el patrón de consumo en las horas nocturnas se debe validar la automatización de los AA.-->
+- Se evidencia una diferencia del consumo promedio diario de 95.05 kWh/dia, lo que representa un 32 % de aumento respecto a la línea base. Se debe validar la configuración del sistema AA, para las horas nocturnas.
 
 
-<!-- ## BC 705 - El Bagre
+## BC 705 - El Bagre
 
-- La sede para esta semana normaliza la novedad del apagado del aire pasando de las 20 horas a las 19 horas. -->
+ La sede para esta semana presenta cambio en el patrón de consumo y el sistema de AA quedan encendido, validar si no se estan presentando trabajos operativos en la sede.
 
 
 <!-- ## BC 741 - Calima -->
@@ -205,11 +207,13 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 - Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.-->
 
-<!--  ## BC 776 - Lebrija -->
+## BC 776 - Lebrija
 
- <!-- ## BC 784 - Centro Colon
+- Se evidencia una diferencia del consumo promedio diario de 21.74 kWh/dia, lo que representa un 22 % de aumento respecto a la línea base.
 
- - El sistema de aire acondicionado queda encendido para el 20 y 21 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos. -->
+<!-- ## BC 784 - Centro Colon
+
+- El sistema de aire acondicionado queda encendido para el 20 y 21 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos. -->
 
 <!-- SSe evidencia una diferencia del consumo promedio diario de 31.83 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. -->
 
@@ -219,18 +223,18 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". -->
 
-<!--## BC 789 - Manga
+## BC 789 - Manga
 
-- Se evidencia una diferencia del consumo promedio diario de 45.12 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base. Se sugiere validar la configuración de los AA, para las horas nocturnas.-->
+- El sistema de aire acondicionado queda encendido el 11 y 12 abril. Se sugiere validar la configuiración de los AA, debido a que cambia su patron de consumo.
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-<!--## BC 793 - Profesionales
+## BC 793 - Profesionales
 
-- La sede presenta novedad encendido del AA del 11 al 13 marzo, se sugiere validar si no se presentaron trabajos operativos. -->
+- Se evidencia una diferencia del consumo promedio diario de 33.00 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base. Se sugiere validar la configuiración de los AA, debido a que cambia su patron de consumo.
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 48.64 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base. Cambio en el patrón de consumo. Se sugiere validar la automatización de los aires acondicionados-->
 
@@ -251,11 +255,11 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 ## BC 816 - Calle 10
 
-- Se evidencia una diferencia del consumo promedio diario de 30.22 kWh/dia, lo que representa un 12 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 64.14 kWh/dia, lo que representa un 26 % de aumento respecto a la línea base.
 
-## BC 824 - Ventura Plaza
+<!--## BC 824 - Ventura Plaza
 
-- Se evidencia una diferencia del consumo promedio diario de 21.80 kWh/dia, lo que representa un 9 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 21.80 kWh/dia, lo que representa un 9 % de disminución respecto a la línea base. -->
 
 <!-- ## BC 825 - Astrocentro -->
 
@@ -269,9 +273,9 @@ recomienda validar si se presentaron trabajos en la sede. Se presenta mayor cons
 
 - Se evidencia que la sede disminuyó su patrón de consumo a partir del 14 de noviembre. Se sugiere validar las acciones que se llevaron a cabo. -->
 
-## BC S.A Valledupar
+<!--## BC S.A Valledupar
 
-- Se debe revisar la automatización del sistema AA para los días festivos.
+- Se debe revisar la automatización del sistema AA para los días festivos.  -->
 
 <!-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede. -->
 
