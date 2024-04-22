@@ -6,9 +6,11 @@
 
 </div>
 
-- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 8 al 14 de abril:
+- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 15 al 21 de abril:
 
-<!-- ## BC 044 - Piedecuesta -->
+## BC 044 - Piedecuesta
+
+- La sede presenta consumo de energía para el fin de semana 20 y 21 abril, se debe validar los picos de consumo registrados.
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
@@ -76,21 +78,21 @@ la carga de aire muy alta se debe revisar-->
 
 - Tener presente que la medida se normaliza para el 10 julio, se está construyendo la línea de referencia. -->
 
-<!-- ## BC 253 - Puerta del Norte
+## BC 253 - Puerta del Norte
 
-- Se evidencia una disminución en el consumo de energía para el día 23 de noviembre. Se sugiere verificar si se presentó alguna novedad en la sede. -->
+- Se evidencia un cambio en el patrón de consumo a partir del 19 abril , se debe validar si la sede presenta trabajos operativos.
 
-## BC 291 - Las Palmas
+<!--## BC 291 - Las Palmas
 
-- La sede ha experimentado un cambio en su patrón de consumo energético, evidenciado por una diferencia de 54.71 kWh/día en el consumo promedio diario. Esto representa un aumento del 18 % en comparación con la línea base.
+- La sede ha experimentado un cambio en su patrón de consumo energético, evidenciado por una diferencia de 54.71 kWh/día en el consumo promedio diario. Esto representa un aumento del 18 % en comparación con la línea base.-->
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
 
-## BC 302 - Quebrada Seca
+<!-- ## BC 302 - Quebrada Seca
 
-- El sistema de aire acondicionado operó el domingo 14 de abril. Se debe validar no se presentaron trabajos  en la sede durante ese día.
+- El sistema de aire acondicionado operó el domingo 14 de abril. Se debe validar no se presentaron trabajos  en la sede durante ese día.--> 
 
 <!--## BC 306 - Barrancabermeja 
  
@@ -148,7 +150,7 @@ la carga de aire muy alta se debe revisar-->
 
 ## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 22.60 kWh/dia, lo que representa un 9 % de aumento respecto a la línea base. Se debe revisar los consumos nocturnos.
+- Se evidencia una diferencia del consumo promedio diario de 18.45 kWh/dia, lo que representa un 7 % de disminución respecto a la línea base.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
@@ -164,9 +166,9 @@ la carga de aire muy alta se debe revisar-->
 
 <!-- sin datos desde marzo 7 -->
 
-<!-- ## BC 534 - Buganviles
+## BC 534 - Buganviles
 
-- El sistema de aire acondicionado queda encendido para el 4 y 5 marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.-->
+- El sistema de aire acondicionado queda encendido desde el 20 abril. Se sugiere validar si no se estan presentando trabajos operativos.
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -183,9 +185,9 @@ la carga de aire muy alta se debe revisar-->
 <!-- Se evidencia una diferencia del consumo promedio diario de 62.21 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base. La sede presentaba observación cambio patron de consumo por ajuste equipo AA y termostato, validar si se presentaron modificaciones al respecto. -->
 
 
-## BC 678 - Paseo de la Castellana
+<!-- ## BC 678 - Paseo de la Castellana
 
-- Se evidencia una diferencia del consumo promedio diario de 95.05 kWh/dia, lo que representa un 32 % de aumento respecto a la línea base. Se debe validar la configuración del sistema AA, para las horas nocturnas.
+- Se evidencia una diferencia del consumo promedio diario de 95.05 kWh/dia, lo que representa un 32 % de aumento respecto a la línea base. Se debe validar la configuración del sistema AA, para las horas nocturnas.-->
 
 
 ## BC 705 - El Bagre
@@ -207,9 +209,9 @@ la carga de aire muy alta se debe revisar-->
 
 - Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.-->
 
-## BC 776 - Lebrija
+<!--## BC 776 - Lebrija
 
-- Se evidencia una diferencia del consumo promedio diario de 21.74 kWh/dia, lo que representa un 22 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 21.74 kWh/dia, lo que representa un 22 % de aumento respecto a la línea base. -->
 
 <!-- ## BC 784 - Centro Colon
 
@@ -223,20 +225,20 @@ la carga de aire muy alta se debe revisar-->
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". -->
 
-## BC 789 - Manga
+<!-- ## BC 789 - Manga
 
-- El sistema de aire acondicionado queda encendido el 11 y 12 abril. Se sugiere validar la configuiración de los AA, debido a que cambia su patron de consumo.
+- El sistema de aire acondicionado queda encendido el 11 y 12 abril. Se sugiere validar la configuiración de los AA, debido a que cambia su patron de consumo. -->
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
 <!-- ## BC 792 - Paseo del comercio -->
 
 
-## BC 793 - Profesionales
+<!-- ## BC 793 - Profesionales
 
-- Se evidencia una diferencia del consumo promedio diario de 33.00 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base. Se sugiere validar la configuiración de los AA, debido a que cambia su patron de consumo.
+- Se evidencia una diferencia del consumo promedio diario de 33.00 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base. Se sugiere validar la configuiración de los AA, debido a que cambia su patron de consumo. -->
 
-<!-- Se evidencia una diferencia del consumo promedio diario de 48.64 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base. Cambio en el patrón de consumo. Se sugiere validar la automatización de los aires acondicionados-->
+<!-- Se evidencia una diferencia del consumo promedio diario de 48.64 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base. Cambio en el patrón de consumo. Se sugiere validar la automatización de los aires acondicionados -->
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
 
@@ -255,7 +257,7 @@ la carga de aire muy alta se debe revisar-->
 
 ## BC 816 - Calle 10
 
-- Se evidencia una diferencia del consumo promedio diario de 64.14 kWh/dia, lo que representa un 26 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 68.22 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base.
 
 <!--## BC 824 - Ventura Plaza
 
