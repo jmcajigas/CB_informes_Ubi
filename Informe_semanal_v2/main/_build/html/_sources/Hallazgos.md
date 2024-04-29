@@ -6,17 +6,19 @@
 
 </div>
 
-- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 15 al 21 de abril:
+- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 22 al 29 de abril:
 
-## BC 044 - Piedecuesta
+<!-- ## BC 044 - Piedecuesta
 
-- La sede presenta consumo de energía para el fin de semana 20 y 21 abril, se debe validar los picos de consumo registrados.
+- La sede presenta consumo de energía para el fin de semana 22 y 29 abril, se debe validar los picos de consumo registrados. -->
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-<!-- ## BC 061 - Carrera Primera
+- ## BC 061 - Carrera Primera
 
--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
+- Se evidencia una diferencia del consumo promedio diario de 66.37 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base.
+
+<!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
 
 - La sede modificó su patrón de consumo histórico a partir del 30 de noviembre de 2023, especialmente en lo que respecta a los consumos nocturnos.-->
 
@@ -34,11 +36,11 @@
 
 - La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
 
-<!--## BC 88 - Cúcuta
+## BC 88 - Cúcuta
 
-- Se evidencia una diferencia del consumo promedio diario de 4.75 kWh/dia, lo que representa un 3 % de disminución respecto a la línea base.
+- La sede presento novedad en consumos nocturnos para la carga de AA, para el 23 y 24 abril.
 
-la carga de aire muy alta se debe revisar-->
+<!--la carga de aire muy alta se debe revisar-->
 
 <!--## BC 90 - Megamall
 
@@ -112,9 +114,9 @@ la carga de aire muy alta se debe revisar-->
 
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
-<!-- ## BC 398 - Mariquita
+## BC 398 - Mariquita
 
-- Se evidencia una disminución en el consumo nocturno del 4%, respecto a la linea base.-->
+- Se evidencia una diferencia del consumo promedio diario de 30.27 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base.
 
 <!-- ## BC 424 - Honda
 
@@ -132,9 +134,9 @@ la carga de aire muy alta se debe revisar-->
 
 - Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
 
-<!--## BC 454 - Quinta Avenida
+## BC 454 - Quinta Avenida
 
-- Es necesario verificar la automatización del sistema de aire acondicionado, ya que se observa un consumo nocturno diferente entre semana. -->
+- Se evidencia una diferencia del consumo promedio diario de 38.81 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base.
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -148,17 +150,15 @@ la carga de aire muy alta se debe revisar-->
 
 - La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos. -->
 
-## BC 496 - Iwanna
+<!-- ## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 18.45 kWh/dia, lo que representa un 7 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 18.45 kWh/dia, lo que representa un 7 % de disminución respecto a la línea base. -->
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
-<!--## BC 514 - Centro Comercial Único
+## BC 514 - Centro Comercial Único
 
-- El sistema de aire acondicionado queda encendido para el 26 de febrero y 3 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos.
-
-- Se evidencia una diferencia del consumo promedio diario de 37.31 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.-->
+- Se evidencia una diferencia del consumo promedio diario de 24.34 kWh/dia, lo que representa un 11 % de disminución respecto a la línea base.
 
 ## BC 523 - Olímpica
 
@@ -168,7 +168,7 @@ la carga de aire muy alta se debe revisar-->
 
 ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado queda encendido desde el 20 abril. Se sugiere validar si no se estan presentando trabajos operativos.
+- El sistema de aire acondicionado queda encendido desde el 27 abril. Se sugiere validar si no se estan presentando trabajos operativos.
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -190,9 +190,9 @@ la carga de aire muy alta se debe revisar-->
 - Se evidencia una diferencia del consumo promedio diario de 95.05 kWh/dia, lo que representa un 32 % de aumento respecto a la línea base. Se debe validar la configuración del sistema AA, para las horas nocturnas.-->
 
 
-## BC 705 - El Bagre
+<!--## BC 705 - El Bagre
 
- La sede para esta semana presenta cambio en el patrón de consumo y el sistema de AA quedan encendido, validar si no se estan presentando trabajos operativos en la sede.
+ La sede para esta semana presenta cambio en el patrón de consumo y el sistema de AA quedan encendido, validar si no se estan presentando trabajos operativos en la sede. -->
 
 
 <!-- ## BC 741 - Calima -->
@@ -255,9 +255,9 @@ la carga de aire muy alta se debe revisar-->
 
 - Se evidencia una diferencia del consumo promedio diario de 35.79 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base. -->
 
-## BC 816 - Calle 10
+<!--## BC 816 - Calle 10
 
-- Se evidencia una diferencia del consumo promedio diario de 68.22 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 68.22 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base. -->
 
 <!--## BC 824 - Ventura Plaza
 
