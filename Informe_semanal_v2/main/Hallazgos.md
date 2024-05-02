@@ -6,7 +6,7 @@
 
 </div>
 
-- Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 22 al 29 de abril:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 22 al 28 de abril:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -14,7 +14,7 @@
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-- ## BC 061 - Carrera Primera
+## BC 061 - Carrera Primera
 
 - Se evidencia una diferencia del consumo promedio diario de 66.37 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base.
 
@@ -168,7 +168,7 @@
 
 ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado queda encendido desde el 27 abril. Se sugiere validar si no se estan presentando trabajos operativos.
+- El sistema de aire acondicionado queda encendido desde el 27 al 29 de abril. Se sugiere validar si no se estan presentando trabajos operativos.
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
