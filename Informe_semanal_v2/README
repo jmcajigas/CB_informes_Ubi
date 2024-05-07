@@ -20,4 +20,3 @@ Se puede usar el mismo informe para encontrar los hallazgos. Para esto se corre 
 Se abre main/\_build/html/intro.html en el navegador y se revisan las figuras, anotando las observaciones en el archivo Hallazgos.md.
 Al terminar los hallazgos se descomenta el archivo de hallazgos en la tabla de contenidos y se compila nuevamente.
 Para finalizar se hace el push y se carga a GitHub Pages.
-o creo q 
