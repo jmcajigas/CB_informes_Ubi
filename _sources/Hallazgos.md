@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 22 al 28 de abril:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 29 abril al 5 mayo del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -14,9 +14,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-## BC 061 - Carrera Primera
+<!-- ## BC 061 - Carrera Primera
 
-- Se evidencia una diferencia del consumo promedio diario de 66.37 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 66.37 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base. -->
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
 
@@ -32,13 +32,13 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
 
-<!--## BC 78 - El Cacique 
+<!-- ## BC 78 - El Cacique 
 
 - La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
 
-## BC 88 - Cúcuta
+<!--## BC 88 - Cúcuta
 
-- La sede presento novedad en consumos nocturnos para la carga de AA, para el 23 y 24 abril.
+- La sede presento novedad en consumos nocturnos para la carga de AA, para el 23 y 24 abril. -->
 
 <!--la carga de aire muy alta se debe revisar-->
 
@@ -50,6 +50,8 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas.
 
+- El sistema de AA operó el miercoles 1 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
+
 <!-- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado. -->
 
  <!-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
@@ -58,7 +60,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 197 - Guatapuri
 
-- La sede presenta novedad en el apagado de los aires a las 21 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.
+- La sede corrige novedad en el horario de apagado de los aires acondicionados, pasando de las 21:00 horas a las 18:00 horas.
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
@@ -114,9 +116,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
-## BC 398 - Mariquita
+<!--## BC 398 - Mariquita
 
-- Se evidencia una diferencia del consumo promedio diario de 30.27 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 30.27 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base.  -->
 
 <!-- ## BC 424 - Honda
 
@@ -134,9 +136,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
 
-## BC 454 - Quinta Avenida
+<!--## BC 454 - Quinta Avenida
 
-- Se evidencia una diferencia del consumo promedio diario de 38.81 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 38.81 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. -->
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -156,9 +158,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
-## BC 514 - Centro Comercial Único
+<!--## BC 514 - Centro Comercial Único
 
-- Se evidencia una diferencia del consumo promedio diario de 24.34 kWh/dia, lo que representa un 11 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 24.34 kWh/dia, lo que representa un 11 % de disminución respecto a la línea base. -->
 
 ## BC 523 - Olímpica
 
@@ -168,7 +170,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado queda encendido desde el 27 al 29 de abril. Se sugiere validar si no se estan presentando trabajos operativos.
+- Se presenta novedad en el sistema de AA para los fines de semana, se sugiere validar la automatización de los equipos de AA.
  
 <!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
 
@@ -259,9 +261,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - Se evidencia una diferencia del consumo promedio diario de 68.22 kWh/dia, lo que representa un 27 % de aumento respecto a la línea base. -->
 
-<!--## BC 824 - Ventura Plaza
+## BC 824 - Ventura Plaza
 
-- Se evidencia una diferencia del consumo promedio diario de 21.80 kWh/dia, lo que representa un 9 % de disminución respecto a la línea base. -->
+- El sistema de AA operó el miercoles 1 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
 <!-- ## BC 825 - Astrocentro -->
 
