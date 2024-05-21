@@ -11,7 +11,7 @@
 & python tools\builder.py
 
 #7. Borrar la carpeta main/\_build (o manipular la configuración de ejecución entre cache y force. Borrar funciona como hacer force)#
-& Remove-Item '\Informe_semanal_v2\main\_build' -Recurse
+& Remove-Item 'C:\Proyectos Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2\main\_build' -Recurse
 # 10. Correr el comando: "jb build main" para compilar los notebooks
-& jb build "main"
+& jb build "C:\Proyectos Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2\main"
 
