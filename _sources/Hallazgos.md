@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 6 al 13 mayo del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 13 al 19 mayo del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -16,7 +16,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 061 - Carrera Primera
 
-- Se evidencia una diferencia del consumo promedio diario de 64.85 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 69.77 kWh/dia, lo que representa un 22 % de disminución respecto a la línea base.
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
 
@@ -61,6 +61,8 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 197 - Guatapuri
 
 - La sede vuelve a presentar novedad en el apagado del AA a las 21 horas, se debe validar se presentan consumos atípicos para los fines de semana.
+
+- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 <!--  La sede corrige novedad en el horario de apagado de los aires acondicionados, pasando de las 21:00 horas a las 18:00 horas. -->
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
@@ -71,9 +73,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-## BC 210 - Banca Colombia Cartagena
+<!--## BC 210 - Banca Colombia Cartagena
 
-- La sede presentó bajos consumos a partir del 7 de mayo. Validar si se presentan trabajos operativos.
+- La sede presentó bajos consumos a partir del 7 de mayo. Validar si se presentan trabajos operativos. -->
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -97,9 +99,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
 
-## BC 302 - Quebrada Seca
-
-- Se deben validar los consumos nocturnos a partir del 9 de mayo, los cuales muestran un patrón de aumento en el consumo.
+<!-- ## BC 302 - Quebrada Seca  --> 
 
 ## BC 306 - Barrancabermeja 
  
