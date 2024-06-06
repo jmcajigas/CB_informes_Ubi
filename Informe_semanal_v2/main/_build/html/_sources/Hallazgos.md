@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 20 al 26 mayo del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 27 mayo al 3 de junio del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -47,11 +47,12 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas. -->
 
-<!--## BC 185 - Llano Grande Palmira
+## BC 185 - Llano Grande Palmira
 
-- Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas.
+- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  
 
-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
+<!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
+
 
 <!-- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado. -->
 
@@ -61,7 +62,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 197 - Guatapuri
 
-- La sede vuelve a presentar novedad en el apagado del AA a las 21 horas, se debe validar se presentan consumos atípicos para los fines de semana.
+- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  
 
 <!-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 <!--  La sede corrige novedad en el horario de apagado de los aires acondicionados, pasando de las 21:00 horas a las 18:00 horas. -->
@@ -103,18 +104,18 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- ## BC 302 - Quebrada Seca  --> 
 
-<!-- ## BC 306 - Barrancabermeja 
+ ## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  
---> 
+- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
+
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-<!-- ## BC 311 - Bello
+## BC 311 - Bello
 
-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
--->
+- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+
 <!-- Se queda aire encendido el 1 mayo. -->
 
 <!-- ## BC 371 - Caucasia -->
@@ -177,7 +178,8 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 534 - Buganviles
 
-- Se presenta novedad en el sistema de AA para los fines de semana, se sugiere validar la automatización de los equipos de AA.
+- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
  
@@ -212,9 +214,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- ## BC 749 - Santa Monica -->
 
-<!-- ## BC 750 - Roosevelt
+## BC 750 - Roosevelt
 
-- Se presenta una novedad en la sede a partir del 28 de septiembre, donde la carga de aire acondicionado es mayor que la del totalizador. Se debe validar la corriente L2 de la medida totalizadora. -->
+- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
  
 <!-- ## BC 764 - Jamundí
 
