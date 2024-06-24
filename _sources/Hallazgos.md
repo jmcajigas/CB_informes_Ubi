@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 10 al 16 de junio del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 17 al 23 de junio del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -14,9 +14,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-<!-- ## BC 061 - Carrera Primera
+## BC 061 - Carrera Primera
 
-- Se evidencia una diferencia del consumo promedio diario de 69.77 kWh/dia, lo que representa un 22 % de disminución respecto a la línea base. -->
+- Se evidencia una diferencia del consumo promedio diario de 49.51 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base.
 
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
@@ -39,7 +39,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 88 - Cúcuta
 
-- Se evidencia una diferencia del consumo promedio diario de 47.49 kWh/dia, lo que representa un 27 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 35.00 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.
 
 <!--la carga de aire muy alta se debe revisar-->
 
@@ -106,17 +106,17 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- ## BC 302 - Quebrada Seca  --> 
 
-## BC 306 - Barrancabermeja 
+<!--## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el lunes 10 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 10 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. ->
 
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-## BC 311 - Bello
+<!--## BC 311 - Bello
 
-- El sistema de AA operó el lunes 10 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 10 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. ->
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
@@ -180,10 +180,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 534 - Buganviles
 
-- El sistema de AA operó el lunes 10 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
-
-- Se debe validar el consumo de energía durante los fines de semana, ya que se presentan altos consumos nocturnos.
-
+- El sistema de aire acondicionado estuvo en funcionamiento durante el fin de semana del 22 al 23 de junio. Es necesario verificar si no se realizaron trabajos en la sede durante ese período.
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
  
@@ -209,8 +206,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 705 - El Bagre
 
-- Se evidencia una diferencia del consumo promedio diario de 62.34 kWh/dia, lo que representa un 31 % de disminución respecto a la línea base.
-
+- Se evidencia una diferencia del consumo promedio diario de 40.45 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base.
 
 <!-- ## BC 741 - Calima -->
 
