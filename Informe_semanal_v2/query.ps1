@@ -7,6 +7,10 @@
 & Remove-Item 'C:\Proyectos Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2\main\notebooks\individual\*' -Recurse -Force
 
 
+# Paso adicional para cambiar a la carpeta deseada 
+Set-Location -Path 'C:\Proyectos Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2'
+
+
 #5. Replicar el modelo para cada sede usando tools/builder.ipynb
 & python tools\builder.py
 
