@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 17 al 23 de junio del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 24 de junio AL 1 julio del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -16,7 +16,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 061 - Carrera Primera
 
-- Se evidencia una diferencia del consumo promedio diario de 49.51 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 59.11 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.
 
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
@@ -37,9 +37,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
 
-## BC 88 - Cúcuta
+<!-- ## BC 88 - Cúcuta
 
-- Se evidencia una diferencia del consumo promedio diario de 35.00 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 35.00 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base. -->
 
 <!--la carga de aire muy alta se debe revisar-->
 
@@ -47,9 +47,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas. -->
 
-<!-- ## BC 185 - Llano Grande Palmira
+## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.   -->
+- El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -62,7 +62,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 197 - Guatapuri
 
-- El sistema de AA presenta cambio en el patron de consumos, a partir del 7 junio.
+- El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  
 
 - La sede presenta una novedad en el apagado del sistema de aire acondicionado a las 21 horas. Se sugiere validar el apagado, que en promedio se establece a las 18 horas.
 
@@ -114,9 +114,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-<!--## BC 311 - Bello
+## BC 311 - Bello
 
-- El sistema de AA operó el lunes 10 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. ->
+- El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 
 <!-- Se queda aire encendido el 1 mayo. -->
 
@@ -180,7 +180,8 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado estuvo en funcionamiento durante el fin de semana del 22 al 23 de junio. Es necesario verificar si no se realizaron trabajos en la sede durante ese período.
+- El sistema de aire acondicionado operó durante el fin de semana del 29 y 30 de junio y el 1 de julio, que corresponde con un día festivo. Es necesario verificar esto debido a que la sede presenta novedad de que los aires acondicionados no se apagaron durante el fin de semana.
+
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
  
@@ -206,7 +207,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 705 - El Bagre
 
-- Se evidencia una diferencia del consumo promedio diario de 40.45 kWh/dia, lo que representa un 21 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 50.13 kWh/dia, lo que representa un 26 % de disminución respecto a la línea base.
 
 <!-- ## BC 741 - Calima -->
 
