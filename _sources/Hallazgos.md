@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 24 de junio AL 1 julio del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 1 al 7 de julio del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -14,9 +14,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-## BC 061 - Carrera Primera
+<!-- ## BC 061 - Carrera Primera
 
-- Se evidencia una diferencia del consumo promedio diario de 59.11 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 59.11 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.-->
 
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
@@ -207,7 +207,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 705 - El Bagre
 
-- Se evidencia una diferencia del consumo promedio diario de 50.13 kWh/dia, lo que representa un 26 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 53.22 kWh/dia, lo que representa un 27 % de disminución respecto a la línea base.
 
 <!-- ## BC 741 - Calima -->
 
