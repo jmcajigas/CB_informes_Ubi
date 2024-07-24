@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 8 al 14 de julio del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 15 al 21 de julio del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -63,8 +63,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 197 - Guatapuri
 
 <!-- El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
-
-- La sede presenta  novedad en el apagado del sistema de aire acondicionado a las 21 horas, debido a el apagado del AA por el centro comercial.
+- La sede presenta el apagado del sistema de aire acondicionado a las 21 horas, debido al apagado centro comercial.
 
 <!-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 <!--  La sede corrige novedad en el horario de apagado de los aires acondicionados, pasando de las 21:00 horas a las 18:00 horas. -->
@@ -103,10 +102,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
-
+<!--
 ## BC 302 - Quebrada Seca
 
-- La sede presento novedad consumos nocturnos del 11 al 12, se debe validar si no se presentaron trabajos en la sede.
+- La sede presento novedad consumos nocturnos del 11 al 12, se debe validar si no se presentaron trabajos en la sede. -->
 
 <!--## BC 306 - Barrancabermeja 
  
@@ -124,7 +123,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 371 - Caucasia 
 
-- La sede presenta patrón de consumo atípico se debe validar la automatización del sistema AA.
+- Se ha solucionado el problema del apagado del aire acondicionado ahora, la sede presenta consumos normales.
 
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
