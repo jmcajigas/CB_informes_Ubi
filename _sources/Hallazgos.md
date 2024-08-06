@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 22 al 28 de julio del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 29 de julio al 4 agosto del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -78,9 +78,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
+<!--
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presentó novedad consumos nocturnos para 26 y 27 julio, se recomienda validar si no se presentaron trabajos operativos.
+- La sede presentó novedad consumos nocturnos para 26 y 27 julio, se recomienda validar si no se presentaron trabajos operativos. -->
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -104,10 +105,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
 <!-- Durante el lunes festivo 22 de mayo, se registró un consumo de energía del sistema de aire acondicionado desde las 8:30 a.m. hasta las 12:30 p.m. Se observó que el sistema estuvo en funcionamiento durante este periodo. --> 
-
+<!--
 ## BC 302 - Quebrada Seca
 
-- La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede.
+- La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede. -->
 
 <!--## BC 306 - Barrancabermeja 
  
@@ -237,10 +238,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 - El sistema de aire acondicionado queda encendido para el 20 y 21 de marzo. Se sugiere revisar si no se han presentado trabajos nocturnos. -->
 
 <!-- SSe evidencia una diferencia del consumo promedio diario de 31.83 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. -->
-
+<!--
 ## BC 787 - Bocagrande Carrera Tercera
 
-- - La sede presentó novedad consumos nocturnos para 26 y 27 julio, se recomienda validar si no se presentaron trabajos operativos.
+- - La sede presentó novedad consumos nocturnos para 26 y 27 julio, se recomienda validar si no se presentaron trabajos operativos.-->
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". 
 
