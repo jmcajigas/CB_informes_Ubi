@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 12 al 19 de agosto del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 19 al 25 de agosto del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -67,7 +67,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede presenta el apagado del sistema de aire acondicionado a las 21 horas, debido al apagado centro comercial.
 
-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA.
+<!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
 <!-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 <!--  La sede corrige novedad en el horario de apagado de los aires acondicionados, pasando de las 21:00 horas a las 18:00 horas. -->
@@ -83,9 +83,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta novedad consumos nocturnos para el sabado 17 agosto.
-
 - El sistema de AA operó el lunes 19 agosto, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+
+- La sede normaliza su patrón de consumo a partir del 23 agosto.
+
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -159,10 +160,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- ## BC 453 - Pitalito
 
 - Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
-
+<!--
 ## BC 454 - Quinta Avenida
 
-- La sede cambió el patrón de consumo para el fin de semana, se sugiere validar si la sede operó el fin de semana.
+- La sede cambió el patrón de consumo para el fin de semana, se sugiere validar si la sede operó el fin de semana..-->
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -242,10 +243,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!--## BC 776 - Lebrija
 
 - Se evidencia una diferencia del consumo promedio diario de 21.74 kWh/dia, lo que representa un 22 % de aumento respecto a la línea base. -->
-
+<!--
 ## BC 784 - Centro Colon
 
-- La sede estuvo en trabajos operativos hasta el 17 de agosto debido a la normalización del patrón de consumo nocturno. Se sugiere validar si la sede no presenta más novedades relacionadas con los trabajos operativos.
+- La sede estuvo en trabajos operativos hasta el 17 de agosto debido a la normalización del patrón de consumo nocturno. Se sugiere validar si la sede no presenta más novedades relacionadas con los trabajos operativos. -->
 
 <!-- SSe evidencia una diferencia del consumo promedio diario de 31.83 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. -->
 
@@ -257,10 +258,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". 
  -->
-<!--
+
 ## BC 789 - Manga
 
-- El sistema de AA operó el miercoles 7 agosto, que correspondía a un día festivo.  -->
+- La sede presenta consumos nocturnos para el domingo 25 agosto.
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
