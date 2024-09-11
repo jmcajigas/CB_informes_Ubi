@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 26 de agosto al 1 de septiembre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 02 al 08 de septiembre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -14,9 +14,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
-<!-- ## BC 061 - Carrera Primera
+## BC 061 - Carrera Primera
 
-- Se evidencia una diferencia del consumo promedio diario de 59.11 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base.-->
+- Es necesario revisar la automatización de la sede para los fines de semana, ya que se han reportado consumos durante los días sábado y domingo.
 
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
@@ -133,7 +133,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 371 - Caucasia 
 
-- Se evidencia una diferencia del consumo promedio diario de 12.17 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 29.63 kWh/dia, lo que representa un 12 % de aumento respecto a la línea base.
 
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
@@ -175,25 +175,25 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos. -->
 
-<!-- ## BC 496 - Iwanna
+## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 18.45 kWh/dia, lo que representa un 7 % de disminución respecto a la línea base. -->
+- Se evidencia una diferencia del consumo promedio diario de 44.50 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
 ## BC 514 - Centro Comercial Único
 
-- La sede presenta una novedad en el apagado del aire acondicionado, pasando de las 19 horas a las 21.
+- La sede ha resuelto la incidencia relacionada con el apagado del aire acondicionado, corrigiendo el horario de las 21:00 horas a las 19:00 horas
 <!--
 ## BC 523 - Olímpica
 
 - Se ha identificado un cambio en el patrón de consumo a partir del 24 de noviembre. Se sugiere realizar una validación en el sitio para descartar posibles fallas en el sistema de aire acondicionado.
 
 <!-- sin datos desde marzo 7 -->
-<!--
+
 ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar esto debido a que la sede presenta novedad de que los aires acondicionados no se apagaron durante el fin de semana.-->
+- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar esto debido a que la sede presenta novedad de que los aires acondicionados no se apagaron durante el fin de semana.
 
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
@@ -257,7 +257,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 789 - Manga
 
-- Se evidencia una diferencia del consumo promedio diario de 119.92 kWh/dia, lo que representa un 41 % de aumento respecto a la línea base. La sede presenta patrón de consumo atípicos.
+- Se evidencia una diferencia del consumo promedio diario de 50.09 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
@@ -287,7 +287,8 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 816 - Calle 10
 
-- La sede presenta una novedad, cambio en el patrón de consumo según la medida totalizadora.
+- La sede normalizó la incidencia presentada entre el 30 de agosto y el 3 de septiembre, registrándose consumos normales desde entonces.
+
 
 <!--## BC 824 - Ventura Plaza
 
@@ -303,10 +304,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 834 - San Mateo
 
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
-
+<!--
 ## BC 863 - Los Patios
 
-- La sede presenta novedad en los consumos nocturnos para el 27 de agosto.
+- La sede presenta novedad en los consumos nocturnos para el 27 de agosto.-->
 
 <!--## BC S.A Valledupar
 
