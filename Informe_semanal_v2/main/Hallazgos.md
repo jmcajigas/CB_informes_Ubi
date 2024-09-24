@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 09 al 15 de septiembre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 16 al 22 de septiembre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -50,7 +50,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 185 - Llano Grande Palmira
 
-- La sede, históricamente, opera los fines de semana. Se sugiere validar el horario para los días sábados y domingos
+- Se evidencia una diferencia del consumo promedio diario de 37.68 kWh/dia, lo que representa un 23 % de aumento respecto a la línea base.
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -83,7 +83,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta trabajos operativos, por eso se observa un patrón de consumos atípicos.
+- La sede normaliza sus consumos a partir del 14 de septiembre, validar si se han terminaron los trabajos operativos.
 
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
@@ -177,7 +177,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 496 - Iwanna
 
-- Se evidencia una diferencia del consumo promedio diario de 44.50 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 36.64 kWh/dia, lo que representa un 16 % de aumento respecto a la línea base.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 
@@ -193,7 +193,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 534 - Buganviles
 
-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar esto debido a que la sede presenta novedad de que los aires acondicionados no se apagaron durante el fin de semana.
+- Se evidencia una diferencia en el consumo promedio diario de 12.15 kWh/día, lo que representa una disminución del 5 % respecto a la línea base. La sede corrige la anomalía en el consumo durante los fines de semana.
 
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
@@ -213,14 +213,14 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- Se evidencia una diferencia del consumo promedio diario de 62.21 kWh/dia, lo que representa un 17 % de disminución respecto a la línea base. La sede presentaba observación cambio patron de consumo por ajuste equipo AA y termostato, validar si se presentaron modificaciones al respecto. -->
 
 
-<!-- ## BC 678 - Paseo de la Castellana
+## BC 678 - Paseo de la Castellana
 
-- Se evidencia una diferencia del consumo promedio diario de 95.05 kWh/dia, lo que representa un 32 % de aumento respecto a la línea base. Se debe validar la configuración del sistema AA, para las horas nocturnas.-->
+- La sede presentó consumos atípicos el viernes 20 de septiembre, se sugiere validar si se realizaron trabajos operativos.
 
-<!--
+
 ## BC 705 - El Bagre
 
-- Se evidencia una diferencia del consumo promedio diario de 53.22 kWh/dia, lo que representa un 27 % de disminución respecto a la línea base.-->
+- La sede presenta una novedad con el encendido del aire acondicionado a partir del 20 de septiembre; se sugiere validar si se están llevando a cabo trabajos operativos.
 
 <!-- ## BC 741 - Calima -->
 
@@ -228,10 +228,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- ## BC 749 - Santa Monica -->
 
-<!-- ## BC 750 - Roosevelt
+## BC 750 - Roosevelt
 
-- El sistema de AA operó el lunes 3 junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
- 
+- El sistema de aire acondicionado operó durante el fin de semana; se sugiere validar la automatización del aire acondicionado.
 <!-- ## BC 764 - Jamundí
 
 - Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.-->
@@ -284,10 +283,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!--## BC 799 - Floridablanca
 
 - Se evidencia una diferencia del consumo promedio diario de 35.79 kWh/dia, lo que representa un 19 % de aumento respecto a la línea base. -->
-
+<!--##
 ## BC 816 - Calle 10
 
-- La sede normalizó la incidencia presentada entre el 30 de agosto y el 3 de septiembre, registrándose consumos normales desde entonces.
+- La sede normalizó la incidencia presentada entre el 30 de agosto y el 3 de septiembre, registrándose consumos normales desde entonces.-->
 
 
 <!--## BC 824 - Ventura Plaza
