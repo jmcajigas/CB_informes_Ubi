@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 23 al 29 de septiembre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 30 de septiembre al 6 de octubre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -78,10 +78,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-
+<!--
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede normaliza sus consumos a partir del 14 de septiembre, validar si se han terminaron los trabajos operativos.
+- La sede normaliza sus consumos a partir del 14 de septiembre, validar si se han terminaron los trabajos operativos.-->
 
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
@@ -89,10 +89,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- Se ha observado una disminución en el consumo de energía en la sede debido a labores de mantenimiento operativo que se llevaron a cabo desde el 29 de noviembre hasta el 12 de febrero. Ahora que estas labores han concluido, la sede ya reporta consumos normalizados. -->
 
 <!-- - Se presenta un cambio en el patrón de consumo a partir del 17 marzo, se apaga cargas se corrige novedad cargas encendidas a partir del 28 febrero. -->
-
+<!--
 ## BC 216 - Sabana de Torres 
 
-- La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.
+- La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.-->
 
 <!--## BC 253 - Puerta del Norte
 
@@ -180,16 +180,16 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 514 - Centro Comercial Único
 
 - La sede ha resuelto la incidencia relacionada con el apagado del aire acondicionado, corrigiendo el horario de las 21:00 horas a las 18:00 horas-->
-<!--
+
 ## BC 523 - Olímpica
 
-- Se ha identificado un cambio en el patrón de consumo a partir del 24 de noviembre. Se sugiere realizar una validación en el sitio para descartar posibles fallas en el sistema de aire acondicionado.
+- La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.
 
 <!-- sin datos desde marzo 7 -->
 
 ## BC 534 - Buganviles
 
-- Se evidencia una diferencia del consumo promedio diario de 17.10 kWh/dia, lo que representa un 7 % de aumento respecto a la línea base. Se vuelve a reportar novedad consumo los fines de semana.
+- Se evidencia una diferencia del consumo promedio diario de 38.42 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. Se vuelve a reportar novedad consumo los fines de semana.
 
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
@@ -213,10 +213,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede presentó consumos atípicos el viernes 20 de septiembre, se sugiere validar si se realizaron trabajos operativos.-->
 
-
+<!--
 ## BC 705 - El Bagre
 
-- La sede presenta una novedad con el encendido del aire acondicionado a partir del 20 de septiembre; se sugiere validar si se están llevando a cabo trabajos operativos.
+- La sede presenta una novedad con el encendido del aire acondicionado a partir del 20 de septiembre; se sugiere validar si se están llevando a cabo trabajos operativos..-->
 
 <!-- ## BC 741 - Calima -->
 
@@ -252,7 +252,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 789 - Manga
 
-- Se evidencia una diferencia del consumo promedio diario de 38.83 kWh/dia, lo que representa un 13 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 22.59 kWh/dia, lo que representa un 7 % de disminución respecto a la línea base. Se sugiere validar los consumos nocturnos.
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
