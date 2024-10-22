@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 7 al 14 de octubre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 14 al 20 de octubre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -60,10 +60,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
  <!-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
-<!--
+
 ## BC 197 - Guatapuri
 
-- El sistema de AA operó durante el fin de semana. Se debe verificar, ya que históricamente la sede ha presentado problemas en la automatización durante esos  -->
+- Se evidencia una diferencia del consumo promedio diario de 9.98 kWh/dia, lo que representa un 4 % de disminución respecto a la línea base.
 
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
@@ -78,10 +78,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-
+<!--
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta novedad consumos noctunos del 8 al 10 de octubre.
+- La sede presenta novedad consumos noctunos del 8 al 10 de octubre.-->
 
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
@@ -242,12 +242,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 - La sede estuvo en trabajos operativos hasta el 17 de agosto debido a la normalización del patrón de consumo nocturno. Se sugiere validar si la sede no presenta más novedades relacionadas con los trabajos operativos. -->
 
 <!-- SSe evidencia una diferencia del consumo promedio diario de 31.83 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base. -->
-<!--
+
 ## BC 787 - Bocagrande Carrera Tercera
 
-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar si en la sede no se presentan trabajos operativos.
-
-- El sistema de AA operó el lunes 19 agosto, que correspondía a un día festivo. -->
+- La sede presenta novedad en la medida totalizadora, se debe validar que cambios operativos se realizaron.
 
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". 
  -->
