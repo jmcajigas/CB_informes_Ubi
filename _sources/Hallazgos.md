@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 14 al 20 de octubre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 21 al 27 de octubre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -37,9 +37,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
 
-<!-- ## BC 88 - Cúcuta
+## BC 88 - Cúcuta
 
-- Se evidencia una diferencia del consumo promedio diario de 35.00 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base. -->
+- Se presentan consumos el domingo 27 de octubre, se sugiere validar si no se realizaron trabajos operativos en la sucursal.
 
 <!--la carga de aire muy alta se debe revisar-->
 
@@ -50,7 +50,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 185 - Llano Grande Palmira
 
-- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- Se evidencia una diferencia del consumo promedio diario de 16.13 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base. se sugiere validar la automatización del sistema AA en horario nocturno.
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -63,7 +63,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 197 - Guatapuri
 
-- Se evidencia una diferencia del consumo promedio diario de 9.98 kWh/dia, lo que representa un 4 % de disminución respecto a la línea base.
+- La sede presenta novedad en el horario de apagado de los aires acondicionados, lo cual se evidencia que se esta realizando a las 21 Horas.
 
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
@@ -110,20 +110,20 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 302 - Quebrada Seca
 
 - La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede. -->
-
+<!--
 ## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-
+<!--
 ## BC 311 - Bello
 
 - El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
-
+-->
 <!--
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
@@ -191,7 +191,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 -  La sede presenta novedad consumo los fines de semana.
 
-- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- La sede presenta novedad en la medida totalizadora, se debe validar si el 25 de octubre se presentaron trabajos operativos.
 
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
@@ -215,10 +215,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede presentó consumos atípicos el viernes 20 de septiembre, se sugiere validar si se realizaron trabajos operativos.-->
 
-<!--
+
 ## BC 705 - El Bagre
 
-- La sede presenta una novedad con el encendido del aire acondicionado a partir del 20 de septiembre; se sugiere validar si se están llevando a cabo trabajos operativos..-->
+- La sede presenta novedad en la medida AA, se debe validar si el 11 de octubre se presentaron trabajos operativos.
 
 <!-- ## BC 741 - Calima -->
 
@@ -245,8 +245,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 787 - Bocagrande Carrera Tercera
 
-- La sede presenta novedad en la medida totalizadora, se debe validar que cambios operativos se realizaron.
-
+- La sede presenta novedad en la medida totalizadora a partir del 25 de agosto , se debe validar que cambios operativos se realizaron.
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". 
  -->
 <!-- 
@@ -266,10 +265,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- Se evidencia una diferencia del consumo promedio diario de 48.64 kWh/dia, lo que representa un 31 % de aumento respecto a la línea base. Cambio en el patrón de consumo. Se sugiere validar la automatización de los aires acondicionados -->
 
 <!-- A partir del 17 de septiembre, se ha detectado una novedad en el sistema de aire acondicionado. Se debe verificar si se realizaron trabajos en la sede. -->
-
+<!--
 ## BC 796 - Girón 
 
-- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 
 <!--   El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede.-->
