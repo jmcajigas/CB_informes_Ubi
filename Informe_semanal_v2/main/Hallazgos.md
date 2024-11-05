@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 21 al 27 de octubre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 28 de octubre al 04 de noviembre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -36,10 +36,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 <!-- ## BC 78 - El Cacique 
 
 - La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
-
+<!--
 ## BC 88 - Cúcuta
 
-- Se presentan consumos el domingo 27 de octubre, se sugiere validar si no se realizaron trabajos operativos en la sucursal.
+- Se presentan consumos el domingo 27 de octubre, se sugiere validar si no se realizaron trabajos operativos en la sucursal. -->
 
 <!--la carga de aire muy alta se debe revisar-->
 
@@ -47,10 +47,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 - La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas. -->
 
-
+<!--
 ## BC 185 - Llano Grande Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 16.13 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base. se sugiere validar la automatización del sistema AA en horario nocturno.
+- Se evidencia una diferencia del consumo promedio diario de 16.13 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base. se sugiere validar la automatización del sistema AA en horario nocturno.-->
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -63,7 +63,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 197 - Guatapuri
 
-- La sede presenta novedad en el horario de apagado de los aires acondicionados, lo cual se evidencia que se esta realizando a las 21 Horas.
+- Se evidencia una diferencia del consumo promedio diario de 54.28 kWh/dia, lo que representa un 20 % de disminución respecto a la línea base. Se mejoro el patrón de consumo para los fines de semana.
 
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
@@ -110,10 +110,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 302 - Quebrada Seca
 
 - La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede. -->
-<!--
+
 ## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
+- El sistema de AA operó el lunes 4 noviembre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
@@ -183,7 +183,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.
+- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 925kWh fuera del horario establecido.
 
 <!-- sin datos desde marzo 7 -->
 
@@ -248,10 +248,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 - La sede presenta novedad en la medida totalizadora a partir del 25 de agosto , se debe validar que cambios operativos se realizaron.
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". 
  -->
-<!-- 
+ 
 ## BC 789 - Manga
 
-- Se evidencia una diferencia del consumo promedio diario de 22.59 kWh/dia, lo que representa un 7 % de disminución respecto a la línea base. Se sugiere validar los consumos nocturnos. -->
+- La sede reporta una interrupción en la comunicación para el 31 de octubre. Validar si se presentaron trabajos operativos.
 
 <!--  Se mantiene novedad de  "carga de aire acondicionado, mayor a su line base" ya que la carga del aire se incrementó durante el horario nocturno". Dicha novedad es identificada por la automatización configurada de acuerdo a estandar de banco. -->
 
