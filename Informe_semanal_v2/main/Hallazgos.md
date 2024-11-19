@@ -6,7 +6,7 @@
 
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 04 al 11 de noviembre del 2024:
+Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 11 al 18 de noviembre del 2024:
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -77,10 +77,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-
+<!--
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta disminución en el consumo a partir del 7 de noviembre, se sugiere validar si no se presentaron trabajos operativos.
+- La sede presenta disminución en el consumo a partir del 7 de noviembre, se sugiere validar si no se presentaron trabajos operativos.-->
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
