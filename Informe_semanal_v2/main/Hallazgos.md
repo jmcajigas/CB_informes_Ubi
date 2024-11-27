@@ -3,10 +3,9 @@
 <div align="right">
 
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
-
 </div>
 
-Se presentan las novedades del monitoreo de energía en las sucursales durante la semana del 11 al 18 de noviembre del 2024:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 18 al 24 de noviembre de 2024
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -43,9 +42,9 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!--la carga de aire muy alta se debe revisar-->
 
-<!-- ## BC 90 - Megamall
+## BC 90 - Megamall
 
-- La sede para esta semana normaliza la novedad del apagado del aire pasando de las 19 horas a las 18 horas. -->
+- Se evidencia una diferencia del consumo promedio diario de 5.95 kWh/dia, lo que representa un 4 % de aumento respecto a la línea base. Se registra consumos nocturnos domingo 24 noviembre.
 
 <!--
 ## BC 185 - Llano Grande Palmira
@@ -77,10 +76,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-<!--
+
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta disminución en el consumo a partir del 7 de noviembre, se sugiere validar si no se presentaron trabajos operativos.-->
+- La sede presenta consumos nocturnos para el 20 y 21 noviembre, se suguiere validar si no se presentaron trabajos operativos en la sede.
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -108,10 +107,10 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 ## BC 302 - Quebrada Seca
 
 - La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede. -->
-
+<!--
 ## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el lunes 11 noviembre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 11 noviembre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
@@ -181,7 +180,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 829 kWh fuera del horario establecido.
+- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 845 kWh fuera del horario establecido.
 
 <!-- sin datos desde marzo 7 -->
 
@@ -216,7 +215,7 @@ Se presentan las novedades del monitoreo de energía en las sucursales durante l
 
 ## BC 705 - El Bagre
 
-- La sede presenta novedad en la medida AA, se debe validar si del 11 de octubre al 1 noviembre se presentaron trabajos operativos.
+- La sede presenta consumos nocturnos durante el fin de semana del 23 y 24 de noviembre. Se sugiere validar si se realizaron trabajos operativos en esas fechas."
 
 <!-- ## BC 741 - Calima -->
 
