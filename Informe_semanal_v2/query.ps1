@@ -19,3 +19,4 @@ Set-Location -Path 'C:\Proyectos Digitalización\Bancolombia\CB_informes_Ubi\Inf
 # 10. Correr el comando: "jb build main" para compilar los notebooks
 & jb build "C:\Proyectos Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2\main"
 
+ 

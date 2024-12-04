@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 18 al 24 de noviembre de 2024
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 25 de noviembre al 1 de diciembre 2024
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -41,10 +41,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - Se presentan consumos el domingo 27 de octubre, se sugiere validar si no se realizaron trabajos operativos en la sucursal. -->
 
 <!--la carga de aire muy alta se debe revisar-->
-
+<!--
 ## BC 90 - Megamall
 
-- Se evidencia una diferencia del consumo promedio diario de 5.95 kWh/dia, lo que representa un 4 % de aumento respecto a la línea base. Se registra consumos nocturnos domingo 24 noviembre.
+- Se evidencia una diferencia del consumo promedio diario de 5.95 kWh/dia, lo que representa un 4 % de aumento respecto a la línea base. Se registra consumos nocturnos domingo 24 noviembre.-->
 
 <!--
 ## BC 185 - Llano Grande Palmira
@@ -62,6 +62,8 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 197 - Guatapuri
 
+- Se detectó un incremento en los consumos nocturnos desde el 28 de noviembre. Se sugiere verificar si se han realizado trabajos operativos durante este periodo.
+
 - La sede presenta un apagado del sistema de aire acondicionado a las 21:00 horas. Se recomienda validar la automatización, ya que el apagado del aire acondicionado debería realizarse a las 18:00 horas.
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
@@ -76,10 +78,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-
+<!--
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta consumos nocturnos para el 20 y 21 noviembre, se suguiere validar si no se presentaron trabajos operativos en la sede.
+- La sede presenta consumos nocturnos para el 20 y 21 noviembre, se suguiere validar si no se presentaron trabajos operativos en la sede.-->
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -180,15 +182,17 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 845 kWh fuera del horario establecido.
+- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 839 kWh fuera del horario establecido.
 
 <!-- sin datos desde marzo 7 -->
-
+<!--
 ## BC 534 - Buganviles
 
 <!-- -  La sede presenta novedad consumo los fines de semana.  -->
-
-- La sede presenta novedad en la medida totalizadora, se debe validar si el 25 de octubre se presentaron trabajos operativos.
+<!--
+- La sede presenta novedad en la medida totalizadora, se debe validar si el 25 de octubre se presentaron trabajos operativos. 
+- La sede 
+-->
 
 <!--
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
@@ -212,10 +216,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - La sede presentó consumos atípicos el viernes 20 de septiembre, se sugiere validar si se realizaron trabajos operativos.-->
 
-
+<!--
 ## BC 705 - El Bagre
 
-- La sede presenta consumos nocturnos durante el fin de semana del 23 y 24 de noviembre. Se sugiere validar si se realizaron trabajos operativos en esas fechas."
+- La sede presenta consumos nocturnos durante el fin de semana del 23 y 24 de noviembre. Se sugiere validar si se realizaron trabajos operativos en esas fechas."-->
 
 <!-- ## BC 741 - Calima -->
 
@@ -281,9 +285,9 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - La sede normalizó la incidencia presentada entre el 30 de agosto y el 3 de septiembre, registrándose consumos normales desde entonces.-->
 
 
-<!--## BC 824 - Ventura Plaza
+## BC 824 - Ventura Plaza
 
-- El sistema de AA operó el miercoles 1 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.   -->
+- El sistema de aire acondicionado operó el domingo 1 de diciembre, correspondiente a un día de fin de semana. Se recomienda validar con el personal de la sede el correcto procedimiento para el apagado de los equipos.
 
 <!-- ## BC 825 - Astrocentro -->
 
@@ -295,10 +299,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 ## BC 834 - San Mateo
 
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
-<!--
+
 ## BC 863 - Los Patios
 
-- La sede presenta novedad en los consumos nocturnos para el 27 de agosto.-->
+- La sede presenta un aumento en los consumos nocturnos desde el 29 de noviembre, lo que indica que los equipos de aire acondicionado permanecen encendidos. Se sugiere verificar si se están realizando trabajos asociados en campo.
 
 <!--## BC S.A Valledupar
 
