@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 25 de noviembre al 1 de diciembre 2024
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 2 al 12 de diciembre 2024
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -61,8 +61,6 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
 ## BC 197 - Guatapuri
-
-- Se detectó un incremento en los consumos nocturnos desde el 28 de noviembre. Se sugiere verificar si se han realizado trabajos operativos durante este periodo.
 
 - La sede presenta un apagado del sistema de aire acondicionado a las 21:00 horas. Se recomienda validar la automatización, ya que el apagado del aire acondicionado debería realizarse a las 18:00 horas.
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
@@ -185,20 +183,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 839 kWh fuera del horario establecido.
 
 <!-- sin datos desde marzo 7 -->
-<!--
+
 ## BC 534 - Buganviles
 
-<!-- -  La sede presenta novedad consumo los fines de semana.  -->
-<!--
-- La sede presenta novedad en la medida totalizadora, se debe validar si el 25 de octubre se presentaron trabajos operativos. 
-- La sede 
--->
-
-<!--
-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
- 
-<!-- > Se observó una disminución en el consumo de aire acondicionado solo para el festivo 12 junio. Sin embargo, se identificó consumo de carga del aire acondicionado para el fin de semana y se activa alarma de notificación, se requiere validar la causa de este consumo residual de los aires acondicionados. -->
-
+- La sede presenta novedad en la medida totalizadora, se debe cambiar medidor.
 <!-- ## BC 613 - La America
 
 - Se presentó un cambio en el consumo nocturno para el 12 de julio. Se deben validar temas de automatización en la sede. -->
