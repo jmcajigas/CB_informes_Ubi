@@ -23,7 +23,7 @@ class Configuration:
 
 class Ubidots:
     def sendDatatoUbidots(pload, headers, request):
-        r = requests.post(request, headers=headers, json=pload)
+        r = requests.post(request, headers=headers, json=pload, verify=True)
         if 200 <= r.status_code <= 299:
             print("Sent", r.text, "with response code: ", r.status_code)
         if 400 <= r.status_code <= 499:
@@ -96,7 +96,7 @@ class Ubidots:
     def get_all_variables_from_device(token, device_key):
         pload = {'token': token}
         r = requests.get('https://industrial.api.ubidots.com/api/v2.0/devices/' +
-                         device_key+'/variables/?token='+token, params=pload)
+                         device_key+'/variables/?token='+token, params=pload, verify=True)
         r.text
         JSON = r.json()
 
@@ -131,7 +131,7 @@ class Ubidots:
                               right_on='timestamp', how='left')
         return df
 
-    def get_raw_data(lst_var_id, lst_var_fields, start_timestamp, end_timestamp, token, join=False):
+    def get_raw_data(lst_var_id, lst_var_fields, start_timestamp, end_timestamp, token, join=False, verify=False):
         req_url = "https://industrial.api.ubidots.com/api/v1.6/data/raw/series"
 
         headers_list = {
@@ -152,7 +152,7 @@ class Ubidots:
             "end": end_timestamp
         })
 
-        return requests.request("POST", req_url, data=payload,  headers=headers_list)
+        return requests.request("POST", req_url, data=payload,  headers=headers_list, verify=False)
 
     def get_var_id_for_multiple_devices(lst_devices, token):
         lst_var_id = []
@@ -191,7 +191,7 @@ class Ubidots:
             pload = {'token': token}
             r = requests.get(
                 'https://industrial.api.ubidots.com/api/v2.0/devices/'
-                + str(device) + '/?token='+token, params=pload
+                + str(device) + '/?token='+token, params=pload, verify=True
             )
 
             JSON = r.json()
@@ -212,16 +212,16 @@ class Ubidots:
 
     
 
-    def get_available_variables(device_id):
+    def get_available_variables(device_id, verify_ssl=False):
         if not isinstance(device_id, list):
             if isinstance(device_id, str):
                 device_id = [device_id]
             else:
                 device_id = list(device_id)
 
-        return Ubidots.get_var_id_for_multiple_devices(device_id, _TOKEN)
+        return Ubidots.get_var_id_for_multiple_devices(device_id, _TOKEN, verify=verify_ssl)
 
-    def make_request(VAR_IDS_TO_REQUEST, date_interval):
+    def make_request(VAR_IDS_TO_REQUEST, date_interval, verify=False):
         # the request must be made in millisecond timestamps
         start_timestamp = Ubidots.str_date_to_int_timestamp_ms(
             date_interval['start'], Configuration.DATE_FORMAT)
@@ -235,7 +235,8 @@ class Ubidots:
             start_timestamp,
             end_timestamp,
             _TOKEN,
-            join=False
+            join=False,
+            verify=False
         )
 
         # The connection is left open by default
@@ -298,21 +299,20 @@ class Ubidots:
         # handled within the functions. Maybe even consider making one
         # big request function and using pattern matching to select the
         # api url.
-        """
-        Level can take the values: 'group', 'organization', 'account'.
-        """
+        #Level can take the values: 'group', 'organization', 'account'.
+        
 
         pload = {'token': token}
 
         if (level == 'group'):
             r = requests.get(
                 'https://industrial.api.ubidots.com/api/v2.0/device_groups/~' +
-                label+'/devices/?token='+token, params=pload
+                label+'/devices/?token='+token, params=pload , verify=False
             )
         elif (level == 'organization'):
             r = requests.get(
                 'https://industrial.api.ubidots.com/api/v2.0/organizations/~' +
-                label+'/devices/?token=', params=pload
+                label+'/devices/?token=', params=pload , verify=False
             )
         elif (level == 'account'):
             pload = {
@@ -322,7 +322,7 @@ class Ubidots:
 
             r = requests.get(
                 'https://industrial.api.ubidots.com/api/v2.0/devices/?token=',
-                params=pload
+                params=pload , verify=False
             )
         else:
             #TODO: write this as a try except or something like that.
@@ -343,3 +343,69 @@ class Ubidots:
             devices["device_id"].append(JSON_item['id'])
 
         return pd.DataFrame(devices)
+    
+    TOKEN  = os.environ["_token"]
+
+    def get_available_variables2(device_id, token=_TOKEN, verify_ssl=False):
+        if not isinstance(device_id, list):
+            if isinstance(device_id, str):
+                device_id = [device_id]
+            else:
+                device_id = list(device_id)
+        
+        pload = {'token': token}
+        # Crear un DataFrame para almacenar las variables
+        variables = {
+            "variable_id": [],
+            "variable_label": []
+        }   
+
+        for device in device_id:
+            response = requests.get(
+                f'https://industrial.api.ubidots.com/api/v2.0/devices/{device}/variables/?token='+token, params=pload , verify=False
+            )
+        
+        if response.status_code == 200:
+            data = response.json()
+            for var in data['results']:
+                variables["variable_id"].append(var['id'])
+                variables["variable_label"].append(var['label'])
+        else:
+            print(f"Error en la solicitud para el dispositivo {device}: {response.status_code}")
+
+        return pd.DataFrame(variables)
+
+    def get_available_variables2(device_id, token=_TOKEN, verify_ssl=False):
+        if not isinstance(device_id, list):
+            if isinstance(device_id, str):
+                device_id = [device_id]
+            else:
+                device_id = list(device_id)
+ 
+        pload = {'token': token}
+        # Crear un diccionario para almacenar todas las variables
+        variables = {
+            "variable_id": [],
+            "variable_label": [],
+            "device_id": []  # Agregar esta columna para incluir el ID del dispositivo
+        }
+ 
+        for device in device_id:
+            response = requests.get(
+                f'https://industrial.api.ubidots.com/api/v2.0/devices/{device}/variables/',
+                params=pload,
+                verify=verify_ssl
+            )
+ 
+            if response.status_code == 200:
+                data = response.json()
+                for var in data['results']:
+                    variables["variable_id"].append(var['id'])
+                    variables["variable_label"].append(var['label'])
+                    variables["device_id"].append(device)  # Añadir el ID del dispositivo correspondiente
+            else:
+                print(f"Error en la solicitud para el dispositivo {device}: {response.status_code}")
+ 
+        # Convertir el diccionario a un DataFrame
+        return pd.DataFrame(variables)
+

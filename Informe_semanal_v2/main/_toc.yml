@@ -8,7 +8,7 @@ chapters:
   - file: Hallazgos
 
   - file: notebooks/individual/Notebook BC 044 - Piedecuesta   #1
-  - file: notebooks/individual/Notebook BC 061 - Carrera Primera #2
+  #- file: notebooks/individual/Notebook BC 061 - Carrera Primera #2
   - file: notebooks/individual/Notebook BC 66 - Palmira #3
   - file: notebooks/individual/Notebook BC 78 - El Cacique #4
   - file: notebooks/individual/Notebook BC 88 - Cúcuta #5
@@ -44,7 +44,7 @@ chapters:
   - file: notebooks/individual/Notebook BC 750 - Roosevelt #35
   - file: notebooks/individual/Notebook BC 764 - Jamundí #36
   - file: notebooks/individual/Notebook BC 776 - Lebrija #37
-  - file: notebooks/individual/Notebook BC 784 - Centro Colon #38
+  #- file: notebooks/individual/Notebook BC 784 - Centro Colon #38
   - file: notebooks/individual/Notebook BC 787 - Bocagrande Carrera Tercera #39
   - file: notebooks/individual/Notebook BC 789 - Manga #40
   - file: notebooks/individual/Notebook BC 792 - Paseo del comercio #41
@@ -57,7 +57,7 @@ chapters:
   - file: notebooks/individual/Notebook BC 829 - Unicentro Cali #48
   - file: notebooks/individual/Notebook BC 834 - San Mateo #49
   - file: notebooks/individual/Notebook BC 863 - Los Patios #50
-  - file: notebooks/individual/Notebook BC 524 - S.A. Valledupar #51
+  #- file: notebooks/individual/Notebook BC 524 - S.A. Valledupar #51
   - file: notebooks/individual/Notebook BC 821 GRANADA CALI #52
   - file: notebooks/individual/Notebook BC - Sede Adm Twins bay #53
 

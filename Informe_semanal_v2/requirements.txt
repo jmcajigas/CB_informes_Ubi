@@ -72,7 +72,6 @@ matplotlib==3.6.2
 matplotlib-inline==0.1.6
 mdit-py-plugins==0.2.8
 mistune==0.8.4
-mkl-service==2.4.0
 myst-nb==0.13.2
 myst-parser==0.15.2
 nbclassic==0.4.8
@@ -86,7 +85,7 @@ notebook_shim==0.2.2
 numpy==1.23.5
 openpyxl==3.0.10
 packaging 
-pandas 
+pandas==1.5.3 
 pandocfilters==1.5.0
 parso==0.8.3
 patsy==0.5.3
@@ -98,7 +97,7 @@ pooch
 prometheus-client==0.15.0
 prompt-toolkit==3.0.36
 psutil==5.9.4
-psycopg2==2.9.5
+#psycopg2
 pure-eval==0.2.2
 pybtex==0.24.0
 pybtex-docutils==1.0.2
@@ -116,8 +115,8 @@ PySocks
 python-dateutil 
 python-dotenv==0.21.0
 python-json-logger==2.0.4
-pytz 
-pywin32==305
+#pytz 
+#pywin32==305
 pywinpty==2.0.9
 PyYAML 
 pyzmq==24.0.1
