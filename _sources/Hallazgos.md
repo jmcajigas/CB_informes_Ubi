@@ -5,17 +5,17 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 2 al 12 de diciembre 2024
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 9 al 15 de diciembre 2024
 
 <!-- ## BC 044 - Piedecuesta
 
 - La sede presenta consumo de energía para el fin de semana 22 y 29 abril, se debe validar los picos de consumo registrados. -->
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
-<!--
+
 ## BC 061 - Carrera Primera
 
-- Se ha informado que la sede será desinstalada. Se sugiere validar si la sede será trasladada.-->
+- La sede fue desinstalada. Sera reemplazasa por la sucursal tulua.
 
 
 <!--El cambio que presento la sede fue porque se pusieron las cargas de los cajeros que siempre funcionan
@@ -62,7 +62,8 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 197 - Guatapuri
 
-- La sede presenta un apagado del sistema de aire acondicionado a las 21:00 horas. Se recomienda validar la automatización, ya que el apagado del aire acondicionado debería realizarse a las 18:00 horas.
+- La sede mejoro novedad del apagado del sistema de aire acondicionado pasando de las 21:00 horas a las 18:00 horas.
+
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
 <!-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
@@ -180,7 +181,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 839 kWh fuera del horario establecido.
+- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 930 kWh fuera del horario establecido.
 
 <!-- sin datos desde marzo 7 -->
 
@@ -234,7 +235,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 787 - Bocagrande Carrera Tercera
 
-- La sede presenta novedad en la medida totalizadora a partir del 25 de agosto , se debe validar que cambios operativos se realizaron.
+- La sede presenta novedad en la medida totalizadora.
 <!-- Se apaga aire a partir del 17 marzo, los cuales presentaban novedad "AA encendido a partir del 28 febrero". 
  -->
  <!--
@@ -272,10 +273,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - La sede normalizó la incidencia presentada entre el 30 de agosto y el 3 de septiembre, registrándose consumos normales desde entonces.-->
 
-
+<!--##
 ## BC 824 - Ventura Plaza
 
-- El sistema de aire acondicionado operó el domingo 1 de diciembre, correspondiente a un día de fin de semana. Se recomienda validar con el personal de la sede el correcto procedimiento para el apagado de los equipos.
+- El sistema de aire acondicionado operó el domingo 1 de diciembre, correspondiente a un día de fin de semana. Se recomienda validar con el personal de la sede el correcto procedimiento para el apagado de los equipos.-->
 
 <!-- ## BC 825 - Astrocentro -->
 
@@ -287,11 +288,11 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 ## BC 834 - San Mateo
 
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
-
+<!-- 
 ## BC 863 - Los Patios
 
 - La sede presenta un aumento en los consumos nocturnos desde el 29 de noviembre, lo que indica que los equipos de aire acondicionado permanecen encendidos. Se sugiere verificar si se están realizando trabajos asociados en campo.
-
+-->
 <!--## BC S.A Valledupar
 
 - Se debe revisar la automatización del sistema AA para los días festivos.  -->
