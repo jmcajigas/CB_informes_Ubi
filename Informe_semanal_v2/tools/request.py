@@ -15,6 +15,10 @@ from pathlib import Path
 project_path = Path(_PROJECT_PATH)
 sys.path.append(str(project_path))
 
+import urllib3
+
+urllib3.disable_warnings()
+
 # %%
 # import all your modules here
 import time
@@ -57,6 +61,17 @@ blob_container = "Bancolombia"
 downloader.blob_container = blob_container
 
 # %%
+'''
+import ssl
+import urllib3
+
+# Disable SSL certificate verification
+ssl._create_default_https_context = ssl._create_unverified_context
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+'''
+
+# %%
 #blob_container = "Bancolombia"
 blob_name = r"data/data_weekly_report.pkl"
 downloader.blob_container = blob_container
@@ -78,7 +93,8 @@ print(baseline)
 
 # %%
 df_devices = ubi.get_available_devices_v2(label='bancolombia', level='group', page_size=1000)
-df_vars = ubi.get_available_variables(list(df_devices['device_id']))
+#df_vars = ubi.get_available_variables(list(df_devices['device_id']))
+df_vars = ubi.get_available_variables2(list(df_devices['device_id']), verify_ssl=False)
 
 # %%
 df_vars = df_vars[df_vars['variable_label'].isin(cfg.WHITELISTED_VAR_LABELS)]
@@ -144,10 +160,17 @@ df.set_index('datetime', inplace=True)
 
 
 # %%
+# df1 = pd.read_pickle(r'C:\Users\jpocampo\OneDrive - CELSIA S.A E.S.P\Escritorio\Informe_Bancolombia\CB_informes_Ubi\Informe_semanal_v2\data\data_weekly_report.pkl')
+
+# %%
+downloader.upload_pkl_file(df_devices, blob_name, blob_container)
+
+# %%
 #blob_name = r"data/data_weekly_report.pkl"
 downloader.upload_pkl_file(df,blob_name, blob_container)
 
 # %%
 pd.to_pickle(df, project_path / 'data'/ _PICKLED_DATA_FILENAME)
+
 
 
