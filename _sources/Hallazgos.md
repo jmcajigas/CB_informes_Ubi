@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 9 al 15 de diciembre 2024
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 16 al 22 de diciembre 2024
 
 <!-- ## BC 044 - Piedecuesta
 
@@ -63,6 +63,8 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 ## BC 197 - Guatapuri
 
 - La sede mejoro novedad del apagado del sistema de aire acondicionado pasando de las 21:00 horas a las 18:00 horas.
+
+- La sede corrige la anomalía en el patrón de consumos atípicos durante el horario nocturno.
 
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
@@ -135,7 +137,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 398 - Mariquita
 
-- La sede presenta una novedad en el encendido del sistema de AA a partir del 26 de septiembre. Es necesario verificar que no se estén realizando trabajos operativos.
+- La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.
 
 <!-- ## BC 424 - Honda
 
@@ -181,7 +183,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 930 kWh fuera del horario establecido.
+- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 880 kWh fuera del horario establecido.
 
 <!-- sin datos desde marzo 7 -->
 
