@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 16 al 22 de diciembre 2024
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 30 diciembre 2024 al 06 de enero 2025
 
 <!-- ## BC 044 - Piedecuesta
 
