@@ -5,10 +5,10 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 13 al 19de enero 2025
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 3 al 9 de febrero 2025:
 
 <!-- ## BC 044 - Piedecuesta
-
+s
 - La sede presenta consumo de energía para el fin de semana 22 y 29 abril, se debe validar los picos de consumo registrados. -->
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
@@ -26,19 +26,19 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 66 - Palmira
 
-- Se presenta cambio en el patrón de consumo en el apagado del AA, se suguiere validar si no se presentaron trabajos operativos.
+- Se evidencia una diferencia del consumo promedio diario de 80.80 kWh/dia, lo que representa un 37 % de aumento respecto a la línea base.
 <!--  Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas. -->
 
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
 
-<!-- ## BC 78 - El Cacique 
+## BC 78 - El Cacique 
 
-- La sede presenta novedad en el apagado de los aires a las 19 horas. Se recomienda evaluar con la sucursal la configuración de apagado del aire acondicionado, que actualmente se establece en promedio a las 18 hora.-->
-<!--
+- La sede presenta una variación en el patrón de consumo a partir del 7 de febrero, se debe validar si estan realizando trabajos operativos, de lo contrario revisar la automatización del sistema.
+
 ## BC 88 - Cúcuta
 
-- Se presentan consumos el domingo 27 de octubre, se sugiere validar si no se realizaron trabajos operativos en la sucursal. -->
+- La sede presenta un cambio en el patrón de consumo en la carga totalizadora correspondiente a los consumos nocturnos a partir del 25 de enero, se sugiere validar si no se presentaron trabajos operativos.
 
 <!--la carga de aire muy alta se debe revisar-->
 <!--
@@ -66,8 +66,6 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - La sede corrige la anomalía en el patrón de consumos atípicos durante el horario nocturno.
 
-
-
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
 <!-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
@@ -81,10 +79,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-
+<!--
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta una dismunición en su consumo, validar si presenta trabajos operativos.
+- La sede presenta presenta consumos acorde a su historico, se normaliza novedad de baja demanda. -->
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -100,10 +98,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - Se evidencia un cambio en el patrón de consumo a partir del 19 abril , se debe validar si la sede presenta trabajos operativos.
 -->
+<!--
+## BC 291 - Las Palmas
 
-<!--## BC 291 - Las Palmas
-
-- La sede ha experimentado un cambio en su patrón de consumo energético, evidenciado por una diferencia de 54.71 kWh/día en el consumo promedio diario. Esto representa un aumento del 18 % en comparación con la línea base.-->
+- La sede cambia el patrón de consumo para los dias, domingo se sugiere validar la automatización del AA.-->
 
 <!-- Se evidencia una diferencia del consumo promedio diario de 57.74 kWh/dia, lo que representa un 20 % de aumento respecto a la línea base. Se evidencia que se presento un aumento para el 15 y 16 de febrero cambiando el patrón de consumo.-->
 
@@ -130,21 +128,19 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- Se queda aire encendido el 1 mayo. -->
-
+<!--
 ## BC 371 - Caucasia 
 
-- La sede presenta novedad para el 18 de enero en la medida totalizadora.
+- Se normaliza la medida totalizadora a partir del 27 enero.-->
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
 ## BC 398 - Mariquita
 
-- La sede mejora los consumos nocturnos, se debe validar si se realizaron trabajos.
-
-- Se reporta consumos el domingo 19 enero, se debe validar si no se presentaron trabajos operativos.
+- La sede normaliza la novedad de los consumos los domingo, lo cual representa una disminución del 27% del consumo respecto a la linea base.
 
 <!-- ## BC 424 - Honda
 
-- Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio. pendiente para fase 2 -->
+- Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio. pendiente para fase 2 .. esto se deteto es porque tiene una fase caida se debe validar en sitio-->
 
 <!--  El sistema de AA opera el 16 de octubre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación.
 
@@ -169,14 +165,14 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 <!--## BC 459 - Campo Alegre
 
 - Se evidencia una diferencia del consumo promedio diario de 32.41 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base.-->
+<!--
+## BC 495 - El Bosque
 
-<!--## BC 495 - El Bosque
-
-- La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos. -->
+- La sede presento un cambio en el patrón de consumos del 27 al 31 de enero, toca validar si se presentaron trabajos operativos. .-->
 
 ## BC 496 - Iwanna
 
-- Se suguiere revisar la automatización de los equipos de AA, debido a que se presenta una desviación en los consumos nocturnos.
+- Se suguiere revisar la automatización de los equipos de AA, debido a que se presenta una cambio en los consumos nocturnos.
 
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 <!--
@@ -186,7 +182,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en los consumos nocturnos, durante la semana pasada se consumió un total de 805 kWh fuera del horario establecido.
+- La sede presenta una novedad en los consumos AA, se debe validar el apagado de los AA en horario nocturno.
 
 <!-- sin datos desde marzo 7 -->
 
