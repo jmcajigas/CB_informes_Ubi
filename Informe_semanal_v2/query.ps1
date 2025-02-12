@@ -14,14 +14,19 @@
 
 # Paso adicional para cambiar a la carpeta deseada 
 #Set-Location -Path 'C:/Proyectos Digitalización/Bancolombia/CB_informes_Ubi/Informe_semanal_v2'
-Set-Location -Path 'Informe_semanal_v2'
+Set-Location -Path 'CB_informes_Ubi/Informe_semanal_v2'
 
 #5. Replicar el modelo para cada sede usando tools/builder.ipynb
-& python tools/builder.py
+cd "/Users/jpocampo/Library/CloudStorage/OneDrive-CELSIAS.AE.S.P/Proyectos Digitalización/Bancolombia/CB_informes_Ubi/Informe_semanal_v2/tools/"
+
+python builder.py
 
 #7. Borrar la carpeta main/_build (o manipular la configuración de ejecución entre cache y force. Borrar funciona como hacer force)#
 #& Remove-Item 'C:/Proyectos Digitalización/Bancolombia/CB_informes_Ubi/Informe_semanal_v2/main/_build' -Recurse
+cd "/Users/jpocampo/Library/CloudStorage/OneDrive-CELSIAS.AE.S.P/Proyectos Digitalización/Bancolombia/CB_informes_Ubi/Informe_semanal_v2/"
+
 & Remove-Item  'main/_build' -Recurse -Force
+
 
 # 10. Correr el comando: "jb build main" para compilar los notebooks
 #& jb build "C:/Proyectos Digitalización/Bancolombia/CB_informes_Ubi/Informe_semanal_v2/main"
