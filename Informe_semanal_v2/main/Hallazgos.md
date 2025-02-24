@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 3 al 9 de febrero 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 10 al 15 de febrero 2025:
 
 <!-- ## BC 044 - Piedecuesta
 s
