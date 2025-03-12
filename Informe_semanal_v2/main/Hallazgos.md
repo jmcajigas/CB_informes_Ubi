@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 10 al 15 de febrero 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 03 al 09 de Marzo 2025:
 
 <!-- ## BC 044 - Piedecuesta
 s
@@ -26,7 +26,8 @@ s
 
 ## BC 66 - Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 80.80 kWh/dia, lo que representa un 37 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 49.37 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base.
+
 <!--  Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas. -->
 
 
@@ -62,10 +63,12 @@ s
 
 ## BC 197 - Guatapuri
 
+- La sede presenta novedad "patrón de consumo atípico" validar porque los AA no se estan apagando o si se estan realizando trabajos operativos.
+<!-- 
 - La sede mejoro novedad del apagado del sistema de aire acondicionado pasando de las 21:00 horas a las 18:00 horas.
 
 - La sede corrige la anomalía en el patrón de consumos atípicos durante el horario nocturno.
-
+-->
 <!-- El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA. -->
 
 <!-- El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
@@ -136,7 +139,7 @@ s
 
 ## BC 398 - Mariquita
 
-- La sede normaliza la novedad de los consumos los domingo, lo cual representa una disminución del 27% del consumo respecto a la linea base.
+- La sede presenta novedad "consumos los domingo" lo cual se sugiere validar la automatización del sistema de AA.
 
 <!-- ## BC 424 - Honda
 
@@ -153,10 +156,10 @@ s
 <!-- ## BC 453 - Pitalito
 
 - Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
-<!--
+
 ## BC 454 - Quinta Avenida
 
-- La sede cambió el patrón de consumo para el fin de semana, se sugiere validar si la sede operó el fin de semana..-->
+- La sede presenta novedad "consumos sabado y domingo" lo cual se sugiere validar la automatización del sistema de AA.
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -182,7 +185,7 @@ s
 
 ## BC 523 - Olímpica
 
-- La sede presenta una novedad en los consumos AA, se debe validar el apagado de los AA en horario nocturno.
+- La sede presenta una novedad consumos nocturnos,se debe validar el apagado de los AA en horario nocturno.
 
 <!-- sin datos desde marzo 7 -->
 
@@ -287,10 +290,13 @@ s
 <!--  ## BC 829 - Unicentro Cali -->
 
 <!-- Se normaliza medida para 4 julio. -->
-<!-- 
+
 
 ## BC 834 - San Mateo
 
+- La sede presenta novedad "consumos sabado y domingo" lo cual se sugiere validar la automatización del sistema de AA.
+
+<!-- 
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 <!-- 
 ## BC 863 - Los Patios
@@ -304,8 +310,6 @@ s
 <!-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede. -->
 
 <!--novedad en la carga de aire alto consumo-->
-
->
 <!-- ## BC S.A Granada
 
 - Revisar las cargas del sistema de aire durante los días festivos, con el objetivo de optimizar el consumo de energía. -->

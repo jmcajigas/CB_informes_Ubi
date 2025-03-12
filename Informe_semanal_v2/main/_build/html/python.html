@@ -1,0 +1,690 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>&lt;no title&gt; &#8212; Bancolombia - Informe semanal</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+    <link rel="stylesheet" type="text/css" href="_static/myfile.css?v=01d074a2" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=5eb1bb1e"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'python';</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.png" class="logo__image only-light" alt="Bancolombia - Informe semanal - Home"/>
+    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="Bancolombia - Informe semanal - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Hallazgos.html">Observaciones</a></li>
+
+
+
+
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20044%20-%20Piedecuesta.html">BC 044 - Piedecuesta</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%2066%20-%20Palmira.html">BC 66 - Palmira</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%2078%20-%20El%20Cacique.html">BC 78 - El Cacique</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%2088%20-%20C%C3%BAcuta.html">BC 88 - Cúcuta</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%2090%20-%20Megamall.html">BC 90 - Megamall</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20185%20-%20Llano%20Grande%20Palmira.html">BC 185 - Llano Grande Palmira</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20197%20-%20Guatapuri.html">BC 197 - Guatapuri</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20205%20-%20Villa%20Colombia.html">BC 205 - Villa Colombia</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20210%20-%20Banca%20Colombia%20Cartagena.html">BC 210 - Banca Colombia Cartagena</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20216%20-%20Sabana%20de%20Torres.html">BC 216 - Sabana de Torres</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20253%20-%20Puerta%20del%20Norte.html">BC 253 - Puerta del Norte</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20291%20-%20Las%20Palmas.html">BC 291 - Las Palmas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20302%20-%20Quebrada%20Seca.html">BC 302 - Quebrada Seca</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20306%20-%20Barrancabermeja.html">BC 306 - Barrancabermeja</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20311%20-%20Bello.html">BC 311 - Bello</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20371%20-%20Caucasia.html">BC 371 - Caucasia</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20398%20-%20Mariquita.html">BC 398 - Mariquita</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20424%20-%20Honda.html">BC 424 - Honda</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20453%20-%20Pitalito.html">BC 453 - Pitalito</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20454%20-%20Quinta%20Avenida%202.html">BC 454 - Quinta Avenida 2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20459%20-%20Campo%20Alegre.html">BC 459 - Campo Alegre</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20495%20-%20El%20Bosque.html">BC 495 - El Bosque</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20496%20-%20Iwanna.html">BC 496 - Iwanna</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20514%20-%20Centro%20Comercial%20%C3%9Anico.html">BC 514 - Centro Comercial Único</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20523%20-%20Ol%C3%ADmpica.html">BC 523 - Olímpica</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20534%20-%20Buganviles.html">BC 534 - Buganviles</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20613%20-%20La%20America.html">BC 613 - La America</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20656%20-%20Mayales.html">BC 656 - Mayales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20659%20-%20Girardot.html">BC 659 - Girardot</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20678%20-%20Paseo%20de%20la%20Castellana.html">BC 678 - Paseo de la Castellana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20705%20-%20El%20Bagre.html">BC 705 - El Bagre</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20749%20-%20Santa%20Monica.html">BC 749 - Santa Monica</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20750%20-%20Roosevelt.html">BC 750 - Roosevelt</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20764%20-%20Jamund%C3%AD.html">BC 764 - Jamundí</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20776%20-%20Lebrija.html">BC 776 - Lebrija</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20787%20-%20Bocagrande%20Carrera%20Tercera.html">BC 787 - Bocagrande Carrera Tercera</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20789%20-%20Manga.html">BC 789 - Manga</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20792%20-%20Paseo%20del%20comercio.html">BC 792 - Paseo del comercio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20793%20-%20Profesionales.html">BC 793 - Profesionales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20796%20-%20Gir%C3%B3n.html">BC 796 - Girón</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20799%20-%20Floridablanca.html">BC 799 - Floridablanca</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20816%20-%20Calle%2010.html">BC 816 - Calle 10</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20825%20-%20Astrocentro.html">BC 825 - Astrocentro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20829%20-%20Unicentro%20Cali.html">BC 829 - Unicentro Cali</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20834%20-%20San%20Mateo.html">BC 834 - San Mateo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20863%20-%20Los%20Patios.html">BC 863 - Los Patios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20524%20-%20S.A.%20Valledupar.html">BC 524 - S.A. Valledupar</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20821%20GRANADA%20CALI.html">BC 821 GRANADA CALI</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20-%20Sede%20Adm%20Twins%20bay.html">BC - Sede Adm Twins bay</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1><no title></h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="simple visible nav section-nav flex-column">
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span>import nbformat
+from nbconvert import PDFExporter
+import os
+
+# Lista de notebooks según el orden en _toc.yml
+notebooks = [
+
+    &quot;notebooks/individual/Notebook BC 044 - Piedecuesta&quot;,
+    &quot;notebooks/individual/Notebook BC 66 - Palmira&quot;,
+    &quot;notebooks/individual/Notebook BC 78 - El Cacique&quot;,
+    &quot;notebooks/individual/Notebook BC 88 - Cúcuta&quot;,
+    &quot;notebooks/individual/Notebook BC 90 - Megamall&quot;,
+    &quot;notebooks/individual/Notebook BC 185 - Llano Grande Palmira&quot;,
+    &quot;notebooks/individual/Notebook BC 197 - Guatapuri&quot;,
+    &quot;notebooks/individual/Notebook BC 205 - Villa Colombia&quot;,
+    &quot;notebooks/individual/Notebook BC 210 - Banca Colombia Cartagena&quot;,
+    &quot;notebooks/individual/Notebook BC 216 - Sabana de Torres&quot;,
+    &quot;notebooks/individual/Notebook BC 253 - Puerta del Norte&quot;,
+    &quot;notebooks/individual/Notebook BC 291 - Las Palmas&quot;,
+    &quot;notebooks/individual/Notebook BC 302 - Quebrada Seca&quot;,
+    &quot;notebooks/individual/Notebook BC 306 - Barrancabermeja&quot;,
+    &quot;notebooks/individual/Notebook BC 311 - Bello&quot;,
+    &quot;notebooks/individual/Notebook BC 371 - Caucasia&quot;,
+    &quot;notebooks/individual/Notebook BC 398 - Mariquita&quot;,
+    &quot;notebooks/individual/Notebook BC 424 - Honda&quot;,
+    &quot;notebooks/individual/Notebook BC 453 - Pitalito&quot;,
+    &quot;notebooks/individual/Notebook BC 454 - Quinta Avenida 2&quot;,
+    &quot;notebooks/individual/Notebook BC 459 - Campo Alegre&quot;,
+    &quot;notebooks/individual/Notebook BC 495 - El Bosque&quot;,
+    &quot;notebooks/individual/Notebook BC 496 - Iwanna&quot;,
+    &quot;notebooks/individual/Notebook BC 514 - Centro Comercial Único&quot;,
+    &quot;notebooks/individual/Notebook BC 523 - Olímpica&quot;,
+    &quot;notebooks/individual/Notebook BC 534 - Buganviles&quot;,
+    &quot;notebooks/individual/Notebook BC 613 - La America&quot;,
+    &quot;notebooks/individual/Notebook BC 656 - Mayales&quot;,
+    &quot;notebooks/individual/Notebook BC 659 - Girardot&quot;,
+    &quot;notebooks/individual/Notebook BC 678 - Paseo de la Castellana&quot;,
+    &quot;notebooks/individual/Notebook BC 705 - El Bagre&quot;,
+    &quot;notebooks/individual/Notebook BC 749 - Santa Monica&quot;,
+    &quot;notebooks/individual/Notebook BC 750 - Roosevelt&quot;,
+    &quot;notebooks/individual/Notebook BC 764 - Jamundí&quot;,
+    &quot;notebooks/individual/Notebook BC 776 - Lebrija&quot;,
+    &quot;notebooks/individual/Notebook BC 787 - Bocagrande Carrera Tercera&quot;,
+    &quot;notebooks/individual/Notebook BC 789 - Manga&quot;,
+    &quot;notebooks/individual/Notebook BC 792 - Paseo del comercio&quot;,
+    &quot;notebooks/individual/Notebook BC 793 - Profesionales&quot;,
+    &quot;notebooks/individual/Notebook BC 796 - Girón&quot;,
+    &quot;notebooks/individual/Notebook BC 799 - Floridablanca&quot;,
+    &quot;notebooks/individual/Notebook BC 816 - Calle 10&quot;,
+    &quot;notebooks/individual/Notebook BC 824 - Ventura Plaza&quot;,
+    &quot;notebooks/individual/Notebook BC 825 - Astrocentro&quot;,
+    &quot;notebooks/individual/Notebook BC 829 - Unicentro Cali&quot;,
+    &quot;notebooks/individual/Notebook BC 834 - San Mateo&quot;,
+    &quot;notebooks/individual/Notebook BC 863 - Los Patios&quot;,
+    &quot;notebooks/individual/Notebook BC 524 - S.A. Valledupar&quot;,
+    &quot;notebooks/individual/Notebook BC 821 GRANADA CALI&quot;,
+    &quot;notebooks/individual/Notebook BC - Sede Adm Twins bay&quot;
+]
+
+pdf_exporter = PDFExporter()
+
+for nb in notebooks:
+    nb_path = f&quot;{nb}.ipynb&quot;  # Asegúrate de que la ruta sea correcta
+    if os.path.exists(nb_path):  # Verifica si el archivo existe
+        with open(nb_path) as f:
+            nb_node = nbformat.read(f, as_version=4)
+    
+        # Exporta a PDF
+        (body, resources) = pdf_exporter.from_notebook_node(nb_node)
+        
+        # Guarda el archivo PDF
+        pdf_path = f&quot;{nb}.pdf&quot;
+        with open(pdf_path, &quot;wb&quot;) as pdf_f:
+            pdf_f.write(body)
+        
+        print(f&quot;Convertido: {nb_path} a {pdf_path}&quot;)
+    else:
+        print(f&quot;No encontrado: {nb_path}&quot;)
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">-------------------------------------------------------------------</span>
+<span class="ne">PandocMissing</span><span class="g g-Whitespace">                     </span>Traceback (most recent call last)
+<span class="n">Cell</span> <span class="n">In</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">line</span> <span class="mi">69</span>
+<span class="g g-Whitespace">     </span><span class="mi">66</span>     <span class="n">nb_node</span> <span class="o">=</span> <span class="n">nbformat</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">as_version</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">68</span> <span class="c1"># Exporta a PDF</span>
+<span class="ne">---&gt; </span><span class="mi">69</span> <span class="p">(</span><span class="n">body</span><span class="p">,</span> <span class="n">resources</span><span class="p">)</span> <span class="o">=</span> <span class="n">pdf_exporter</span><span class="o">.</span><span class="n">from_notebook_node</span><span class="p">(</span><span class="n">nb_node</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">71</span> <span class="c1"># Guarda el archivo PDF</span>
+<span class="g g-Whitespace">     </span><span class="mi">72</span> <span class="n">pdf_path</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">nb</span><span class="si">}</span><span class="s2">.pdf&quot;</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\exporters\pdf.py:181,</span> in <span class="ni">PDFExporter.from_notebook_node</span><span class="nt">(self, nb, resources, **kw)</span>
+<span class="g g-Whitespace">    </span><span class="mi">180</span> <span class="k">def</span> <span class="nf">from_notebook_node</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">nb</span><span class="p">,</span> <span class="n">resources</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">):</span>
+<span class="ne">--&gt; </span><span class="mi">181</span>     <span class="n">latex</span><span class="p">,</span> <span class="n">resources</span> <span class="o">=</span> <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="n">from_notebook_node</span><span class="p">(</span><span class="n">nb</span><span class="p">,</span> <span class="n">resources</span><span class="o">=</span><span class="n">resources</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">182</span>     <span class="c1"># set texinputs directory, so that local files will be found</span>
+<span class="g g-Whitespace">    </span><span class="mi">183</span>     <span class="k">if</span> <span class="n">resources</span> <span class="ow">and</span> <span class="n">resources</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;metadata&quot;</span><span class="p">,</span> <span class="p">{})</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;path&quot;</span><span class="p">):</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\exporters\latex.py:74,</span> in <span class="ni">LatexExporter.from_notebook_node</span><span class="nt">(self, nb, resources, **kw)</span>
+<span class="g g-Whitespace">     </span><span class="mi">69</span> <span class="n">highlight_code</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">filters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span>
+<span class="g g-Whitespace">     </span><span class="mi">70</span>     <span class="s2">&quot;highlight_code&quot;</span><span class="p">,</span> <span class="n">Highlight2Latex</span><span class="p">(</span><span class="n">pygments_lexer</span><span class="o">=</span><span class="n">lexer</span><span class="p">,</span> <span class="n">parent</span><span class="o">=</span><span class="bp">self</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">71</span> <span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">72</span> <span class="bp">self</span><span class="o">.</span><span class="n">register_filter</span><span class="p">(</span><span class="s2">&quot;highlight_code&quot;</span><span class="p">,</span> <span class="n">highlight_code</span><span class="p">)</span>
+<span class="ne">---&gt; </span><span class="mi">74</span> <span class="k">return</span> <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="n">from_notebook_node</span><span class="p">(</span><span class="n">nb</span><span class="p">,</span> <span class="n">resources</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">)</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\exporters\templateexporter.py:413,</span> in <span class="ni">TemplateExporter.from_notebook_node</span><span class="nt">(self, nb, resources, **kw)</span>
+<span class="g g-Whitespace">    </span><span class="mi">399</span> <span class="n">resources</span><span class="p">[</span><span class="s2">&quot;global_content_filter&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span>
+<span class="g g-Whitespace">    </span><span class="mi">400</span>     <span class="s2">&quot;include_code&quot;</span><span class="p">:</span> <span class="ow">not</span> <span class="bp">self</span><span class="o">.</span><span class="n">exclude_code_cell</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">401</span>     <span class="s2">&quot;include_markdown&quot;</span><span class="p">:</span> <span class="ow">not</span> <span class="bp">self</span><span class="o">.</span><span class="n">exclude_markdown</span><span class="p">,</span>
+   <span class="p">(</span><span class="o">...</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">409</span>     <span class="s2">&quot;no_prompt&quot;</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">exclude_input_prompt</span> <span class="ow">and</span> <span class="bp">self</span><span class="o">.</span><span class="n">exclude_output_prompt</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">410</span> <span class="p">}</span>
+<span class="g g-Whitespace">    </span><span class="mi">412</span> <span class="c1"># Top level variables are passed to the template_exporter here.</span>
+<span class="ne">--&gt; </span><span class="mi">413</span> <span class="n">output</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">template</span><span class="o">.</span><span class="n">render</span><span class="p">(</span><span class="n">nb</span><span class="o">=</span><span class="n">nb_copy</span><span class="p">,</span> <span class="n">resources</span><span class="o">=</span><span class="n">resources</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">414</span> <span class="n">output</span> <span class="o">=</span> <span class="n">output</span><span class="o">.</span><span class="n">lstrip</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\r\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">415</span> <span class="k">return</span> <span class="n">output</span><span class="p">,</span> <span class="n">resources</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\jinja2\environment.py:1301,</span> in <span class="ni">Template.render</span><span class="nt">(self, *args, **kwargs)</span>
+<span class="g g-Whitespace">   </span><span class="mi">1299</span>     <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">environment</span><span class="o">.</span><span class="n">concat</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">root_render_func</span><span class="p">(</span><span class="n">ctx</span><span class="p">))</span>  <span class="c1"># type: ignore</span>
+<span class="g g-Whitespace">   </span><span class="mi">1300</span> <span class="k">except</span> <span class="ne">Exception</span><span class="p">:</span>
+<span class="ne">-&gt; </span><span class="mi">1301</span>     <span class="bp">self</span><span class="o">.</span><span class="n">environment</span><span class="o">.</span><span class="n">handle_exception</span><span class="p">()</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\jinja2\environment.py:936,</span> in <span class="ni">Environment.handle_exception</span><span class="nt">(self, source)</span>
+<span class="g g-Whitespace">    </span><span class="mi">931</span><span class="w"> </span><span class="sd">&quot;&quot;&quot;Exception handling helper.  This is used internally to either raise</span>
+<span class="g g-Whitespace">    </span><span class="mi">932</span><span class="sd"> rewritten exceptions or return a rendered traceback for the template.</span>
+<span class="g g-Whitespace">    </span><span class="mi">933</span><span class="sd"> &quot;&quot;&quot;</span>
+<span class="g g-Whitespace">    </span><span class="mi">934</span> <span class="kn">from</span> <span class="nn">.debug</span> <span class="kn">import</span> <span class="n">rewrite_traceback_stack</span>
+<span class="ne">--&gt; </span><span class="mi">936</span> <span class="k">raise</span> <span class="n">rewrite_traceback_stack</span><span class="p">(</span><span class="n">source</span><span class="o">=</span><span class="n">source</span><span class="p">)</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\index.tex.j2:8,</span> in <span class="ni">top-level template code</span><span class="nt">()</span>
+<span class="g g-Whitespace">      </span><span class="mi">6</span> 
+<span class="g g-Whitespace">      </span><span class="mi">7</span> <span class="p">((</span><span class="o">=-</span> <span class="n">Inherit</span> <span class="kn">from</span> <span class="nn">the</span> <span class="n">specified</span> <span class="n">cell</span> <span class="n">style</span><span class="o">.</span> <span class="o">-=</span><span class="p">))</span>
+<span class="ne">----&gt; </span><span class="mi">8</span> <span class="p">((</span><span class="o">*</span> <span class="n">extends</span> <span class="n">cell_style</span> <span class="o">*</span><span class="p">))</span>
+<span class="g g-Whitespace">      </span><span class="mi">9</span> 
+<span class="g g-Whitespace">     </span><span class="mi">10</span> 
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\style_jupyter.tex.j2:176,</span> in <span class="ni">top-level template code</span><span class="nt">()</span>
+<span class="g g-Whitespace">    </span><span class="mi">174</span>     <span class="p">((</span><span class="o">*-</span> <span class="k">if</span> <span class="p">(</span><span class="n">resources</span><span class="o">.</span><span class="n">global_content_filter</span><span class="o">.</span><span class="n">include_output_prompt</span> <span class="ow">and</span> <span class="n">prompt</span> <span class="o">==</span> <span class="s1">&#39;Out&#39;</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">175</span>          <span class="ow">or</span> <span class="p">(</span><span class="n">resources</span><span class="o">.</span><span class="n">global_content_filter</span><span class="o">.</span><span class="n">include_input_prompt</span>  <span class="ow">and</span> <span class="n">prompt</span> <span class="o">==</span> <span class="s1">&#39;In&#39;</span> <span class="p">)</span> <span class="o">*</span><span class="p">))</span>
+<span class="ne">--&gt; </span><span class="mi">176</span> \<span class="n">prompt</span><span class="p">{(((</span><span class="n">prompt</span><span class="p">)))}{(((</span><span class="n">prompt_color</span><span class="p">)))}{(((</span><span class="n">execution_count</span><span class="p">)))}{(((</span><span class="n">extra_space</span><span class="p">)))}</span>
+<span class="g g-Whitespace">    </span><span class="mi">177</span>     <span class="p">((</span><span class="o">*-</span> <span class="n">endif</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">    </span><span class="mi">178</span> <span class="p">((</span><span class="o">*-</span> <span class="n">endmacro</span> <span class="o">*</span><span class="p">))</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\base.tex.j2:7,</span> in <span class="ni">top-level template code</span><span class="nt">()</span>
+<span class="g g-Whitespace">      </span><span class="mi">5</span> <span class="n">override</span> <span class="n">this</span><span class="o">.-=</span><span class="p">))</span>
+<span class="g g-Whitespace">      </span><span class="mi">6</span> 
+<span class="ne">----&gt; </span><span class="mi">7</span> <span class="p">((</span><span class="o">*-</span> <span class="n">extends</span> <span class="s1">&#39;document_contents.tex.j2&#39;</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">      </span><span class="mi">8</span> 
+<span class="g g-Whitespace">      </span><span class="mi">9</span> <span class="o">%===============================================================================</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\document_contents.tex.j2:51,</span> in <span class="ni">top-level template code</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">49</span> <span class="p">((</span><span class="o">*</span> <span class="n">macro</span> <span class="n">draw_figure</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">50</span> <span class="p">((</span><span class="o">*</span> <span class="nb">set</span> <span class="n">filename</span> <span class="o">=</span> <span class="n">filename</span> <span class="o">|</span> <span class="n">posix_path</span> <span class="o">*</span><span class="p">))</span>
+<span class="ne">---&gt; </span><span class="mi">51</span> <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">figure</span> <span class="n">scoped</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">52</span>     \<span class="n">begin</span><span class="p">{</span><span class="n">center</span><span class="p">}</span>
+<span class="g g-Whitespace">     </span><span class="mi">53</span>     \<span class="n">adjustimage</span><span class="p">{</span><span class="nb">max</span> <span class="n">size</span><span class="o">=</span><span class="p">{</span><span class="mf">0.9</span>\<span class="n">linewidth</span><span class="p">}{</span><span class="mf">0.9</span>\<span class="n">paperheight</span><span class="p">}}{(((</span> <span class="n">filename</span> <span class="p">)))}</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\display_priority.j2:5,</span> in <span class="ni">top-level template code</span><span class="nt">()</span>
+<span class="g g-Whitespace">      </span><span class="mi">3</span> 
+<span class="g g-Whitespace">      </span><span class="mi">4</span> 
+<span class="ne">----&gt; </span><span class="mi">5</span> <span class="p">((</span><span class="o">*-</span> <span class="n">extends</span> <span class="s1">&#39;null.j2&#39;</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">      </span><span class="mi">6</span> 
+<span class="g g-Whitespace">      </span><span class="mi">7</span> <span class="p">((</span><span class="o">=</span><span class="n">display</span> <span class="n">data</span> <span class="n">priority</span><span class="o">=</span><span class="p">))</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\null.j2:30,</span> in <span class="ni">top-level template code</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">28</span> <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">header</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">29</span> <span class="p">((</span><span class="o">*-</span> <span class="n">endblock</span> <span class="n">header</span> <span class="o">-*</span><span class="p">))</span>
+<span class="ne">---&gt; </span><span class="mi">30</span> <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">body</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">31</span> <span class="p">((</span><span class="o">*-</span> <span class="k">for</span> <span class="n">cell</span> <span class="ow">in</span> <span class="n">nb</span><span class="o">.</span><span class="n">cells</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">32</span>     <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">any_cell</span> <span class="n">scoped</span> <span class="o">-*</span><span class="p">))</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\base.tex.j2:215,</span> in <span class="ni">block &#39;body&#39;</span><span class="nt">()</span>
+<span class="g g-Whitespace">    </span><span class="mi">213</span> <span class="p">((</span><span class="o">*</span> <span class="n">endblock</span> <span class="n">predoc</span> <span class="o">*</span><span class="p">))</span>
+<span class="g g-Whitespace">    </span><span class="mi">214</span> 
+<span class="ne">--&gt; </span><span class="mi">215</span> <span class="p">(((</span> <span class="nb">super</span><span class="p">()</span> <span class="p">)))</span>
+<span class="g g-Whitespace">    </span><span class="mi">216</span> 
+<span class="g g-Whitespace">    </span><span class="mi">217</span> <span class="o">%</span> <span class="n">Add</span> <span class="n">a</span> <span class="n">bibliography</span> <span class="n">block</span> <span class="n">to</span> <span class="n">the</span> <span class="n">postdoc</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\null.j2:32,</span> in <span class="ni">block &#39;body&#39;</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">30</span> <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">body</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">31</span> <span class="p">((</span><span class="o">*-</span> <span class="k">for</span> <span class="n">cell</span> <span class="ow">in</span> <span class="n">nb</span><span class="o">.</span><span class="n">cells</span> <span class="o">-*</span><span class="p">))</span>
+<span class="ne">---&gt; </span><span class="mi">32</span>     <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">any_cell</span> <span class="n">scoped</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">33</span>         <span class="p">((</span><span class="o">*-</span> <span class="k">if</span> <span class="n">cell</span><span class="o">.</span><span class="n">cell_type</span> <span class="o">==</span> <span class="s1">&#39;code&#39;</span><span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">34</span>             <span class="p">((</span><span class="o">*-</span> <span class="k">if</span> <span class="n">resources</span><span class="o">.</span><span class="n">global_content_filter</span><span class="o">.</span><span class="n">include_code</span> <span class="o">-*</span><span class="p">))</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\null.j2:85,</span> in <span class="ni">block &#39;any_cell&#39;</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">83</span> <span class="p">((</span><span class="o">*-</span> <span class="k">elif</span> <span class="n">cell</span><span class="o">.</span><span class="n">cell_type</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;markdown&#39;</span><span class="p">]</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">84</span>     <span class="p">((</span><span class="o">*-</span> <span class="k">if</span> <span class="n">resources</span><span class="o">.</span><span class="n">global_content_filter</span><span class="o">.</span><span class="n">include_markdown</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">cell</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;transient&quot;</span><span class="p">,{})</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;remove_source&quot;</span><span class="p">,</span> <span class="n">false</span><span class="p">)</span> <span class="o">-*</span><span class="p">))</span>
+<span class="ne">---&gt; </span><span class="mi">85</span>         <span class="p">((</span><span class="o">*-</span> <span class="n">block</span> <span class="n">markdowncell</span> <span class="n">scoped</span><span class="o">-*</span><span class="p">))</span> <span class="p">((</span><span class="o">*-</span> <span class="n">endblock</span> <span class="n">markdowncell</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">86</span>     <span class="p">((</span><span class="o">*-</span> <span class="n">endif</span> <span class="o">-*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">87</span> <span class="p">((</span><span class="o">*-</span> <span class="k">elif</span> <span class="n">cell</span><span class="o">.</span><span class="n">cell_type</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;raw&#39;</span><span class="p">]</span> <span class="o">-*</span><span class="p">))</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\document_contents.tex.j2:68,</span> in <span class="ni">block &#39;markdowncell&#39;</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">66</span> <span class="o">%</span> <span class="n">Render</span> <span class="n">markdown</span>
+<span class="g g-Whitespace">     </span><span class="mi">67</span> <span class="p">((</span><span class="o">*</span> <span class="n">block</span> <span class="n">markdowncell</span> <span class="n">scoped</span> <span class="o">*</span><span class="p">))</span>
+<span class="ne">---&gt; </span><span class="mi">68</span>     <span class="p">(((</span> <span class="n">cell</span><span class="o">.</span><span class="n">source</span> <span class="o">|</span> <span class="n">citation2latex</span> <span class="o">|</span> <span class="n">strip_files_prefix</span> <span class="o">|</span> <span class="n">convert_pandoc</span><span class="p">(</span><span class="s1">&#39;markdown+tex_math_double_backslash&#39;</span><span class="p">,</span> <span class="s1">&#39;json&#39;</span><span class="p">,</span><span class="n">extra_args</span><span class="o">=</span><span class="p">[])</span> <span class="o">|</span> <span class="n">resolve_references</span> <span class="o">|</span> <span class="n">convert_pandoc</span><span class="p">(</span><span class="s1">&#39;json&#39;</span><span class="p">,</span><span class="s1">&#39;latex&#39;</span><span class="p">))))</span>
+<span class="g g-Whitespace">     </span><span class="mi">69</span> <span class="p">((</span><span class="o">*</span> <span class="n">endblock</span> <span class="n">markdowncell</span> <span class="o">*</span><span class="p">))</span>
+<span class="g g-Whitespace">     </span><span class="mi">70</span> 
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\filters\pandoc.py:24,</span> in <span class="ni">convert_pandoc</span><span class="nt">(source, from_format, to_format, extra_args)</span>
+<span class="g g-Whitespace">      </span><span class="mi">4</span> <span class="k">def</span> <span class="nf">convert_pandoc</span><span class="p">(</span><span class="n">source</span><span class="p">,</span> <span class="n">from_format</span><span class="p">,</span> <span class="n">to_format</span><span class="p">,</span> <span class="n">extra_args</span><span class="o">=</span><span class="kc">None</span><span class="p">):</span>
+<span class="g g-Whitespace">      </span><span class="mi">5</span><span class="w">     </span><span class="sd">&quot;&quot;&quot;Convert between any two formats using pandoc.</span>
+<span class="g g-Whitespace">      </span><span class="mi">6</span><span class="sd"> </span>
+<span class="g g-Whitespace">      </span><span class="mi">7</span><span class="sd">     This function will raise an error if pandoc is not installed.</span>
+<span class="sd">   (...)</span>
+<span class="g g-Whitespace">     </span><span class="mi">22</span><span class="sd">         Output as returned by pandoc.</span>
+<span class="g g-Whitespace">     </span><span class="mi">23</span><span class="sd">     &quot;&quot;&quot;</span>
+<span class="ne">---&gt; </span><span class="mi">24</span>     <span class="k">return</span> <span class="n">pandoc</span><span class="p">(</span><span class="n">source</span><span class="p">,</span> <span class="n">from_format</span><span class="p">,</span> <span class="n">to_format</span><span class="p">,</span> <span class="n">extra_args</span><span class="o">=</span><span class="n">extra_args</span><span class="p">)</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\utils\pandoc.py:51,</span> in <span class="ni">pandoc</span><span class="nt">(source, fmt, to, extra_args, encoding)</span>
+<span class="g g-Whitespace">     </span><span class="mi">48</span>     <span class="n">cmd</span><span class="o">.</span><span class="n">extend</span><span class="p">(</span><span class="n">extra_args</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">50</span> <span class="c1"># this will raise an exception that will pop us out of here</span>
+<span class="ne">---&gt; </span><span class="mi">51</span> <span class="n">check_pandoc_version</span><span class="p">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">53</span> <span class="c1"># we can safely continue</span>
+<span class="g g-Whitespace">     </span><span class="mi">54</span> <span class="n">p</span> <span class="o">=</span> <span class="n">subprocess</span><span class="o">.</span><span class="n">Popen</span><span class="p">(</span><span class="n">cmd</span><span class="p">,</span> <span class="n">stdin</span><span class="o">=</span><span class="n">subprocess</span><span class="o">.</span><span class="n">PIPE</span><span class="p">,</span> <span class="n">stdout</span><span class="o">=</span><span class="n">subprocess</span><span class="o">.</span><span class="n">PIPE</span><span class="p">)</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\utils\pandoc.py:99,</span> in <span class="ni">check_pandoc_version</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">96</span> <span class="k">if</span> <span class="n">check_pandoc_version</span><span class="o">.</span><span class="n">_cached</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+<span class="g g-Whitespace">     </span><span class="mi">97</span>     <span class="k">return</span> <span class="n">check_pandoc_version</span><span class="o">.</span><span class="n">_cached</span>
+<span class="ne">---&gt; </span><span class="mi">99</span> <span class="n">v</span> <span class="o">=</span> <span class="n">get_pandoc_version</span><span class="p">()</span>
+<span class="g g-Whitespace">    </span><span class="mi">100</span> <span class="k">if</span> <span class="n">v</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<span class="g g-Whitespace">    </span><span class="mi">101</span>     <span class="n">warnings</span><span class="o">.</span><span class="n">warn</span><span class="p">(</span>
+<span class="g g-Whitespace">    </span><span class="mi">102</span>         <span class="s2">&quot;Sorry, we cannot determine the version of pandoc.</span><span class="se">\n</span><span class="s2">&quot;</span>
+<span class="g g-Whitespace">    </span><span class="mi">103</span>         <span class="s2">&quot;Please consider reporting this issue and include the&quot;</span>
+   <span class="p">(</span><span class="o">...</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">106</span>         <span class="n">stacklevel</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">107</span>     <span class="p">)</span>
+
+<span class="nn">File ~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\utils\pandoc.py:76,</span> in <span class="ni">get_pandoc_version</span><span class="nt">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">74</span> <span class="k">if</span> <span class="n">__version</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<span class="g g-Whitespace">     </span><span class="mi">75</span>     <span class="k">if</span> <span class="ow">not</span> <span class="n">shutil</span><span class="o">.</span><span class="n">which</span><span class="p">(</span><span class="s2">&quot;pandoc&quot;</span><span class="p">):</span>
+<span class="ne">---&gt; </span><span class="mi">76</span>         <span class="k">raise</span> <span class="n">PandocMissing</span><span class="p">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">78</span>     <span class="n">out</span> <span class="o">=</span> <span class="n">subprocess</span><span class="o">.</span><span class="n">check_output</span><span class="p">([</span><span class="s2">&quot;pandoc&quot;</span><span class="p">,</span> <span class="s2">&quot;-v&quot;</span><span class="p">])</span>
+<span class="g g-Whitespace">     </span><span class="mi">79</span>     <span class="n">out_lines</span> <span class="o">=</span> <span class="n">out</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+
+<span class="ne">PandocMissing</span>: Pandoc wasn&#39;t found.
+<span class="n">Please</span> <span class="n">check</span> <span class="n">that</span> <span class="n">pandoc</span> <span class="ow">is</span> <span class="n">installed</span><span class="p">:</span>
+<span class="ne">https</span>://pandoc.org/installing.html
+</pre></div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="simple visible nav section-nav flex-column">
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By CELSIA Colombia
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
