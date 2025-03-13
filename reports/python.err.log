@@ -1,0 +1,258 @@
+Traceback (most recent call last):
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\jupyter_cache\executors\utils.py", line 58, in single_nb_execution
+    executenb(
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 1204, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 663, in async_execute
+    await self.async_execute_cell(
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 965, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "C:\Users\operacioniopeldar\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbclient\client.py", line 862, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+import nbformat
+from nbconvert import PDFExporter
+import os
+
+# Lista de notebooks según el orden en _toc.yml
+notebooks = [
+
+    "notebooks/individual/Notebook BC 044 - Piedecuesta",
+    "notebooks/individual/Notebook BC 66 - Palmira",
+    "notebooks/individual/Notebook BC 78 - El Cacique",
+    "notebooks/individual/Notebook BC 88 - Cúcuta",
+    "notebooks/individual/Notebook BC 90 - Megamall",
+    "notebooks/individual/Notebook BC 185 - Llano Grande Palmira",
+    "notebooks/individual/Notebook BC 197 - Guatapuri",
+    "notebooks/individual/Notebook BC 205 - Villa Colombia",
+    "notebooks/individual/Notebook BC 210 - Banca Colombia Cartagena",
+    "notebooks/individual/Notebook BC 216 - Sabana de Torres",
+    "notebooks/individual/Notebook BC 253 - Puerta del Norte",
+    "notebooks/individual/Notebook BC 291 - Las Palmas",
+    "notebooks/individual/Notebook BC 302 - Quebrada Seca",
+    "notebooks/individual/Notebook BC 306 - Barrancabermeja",
+    "notebooks/individual/Notebook BC 311 - Bello",
+    "notebooks/individual/Notebook BC 371 - Caucasia",
+    "notebooks/individual/Notebook BC 398 - Mariquita",
+    "notebooks/individual/Notebook BC 424 - Honda",
+    "notebooks/individual/Notebook BC 453 - Pitalito",
+    "notebooks/individual/Notebook BC 454 - Quinta Avenida 2",
+    "notebooks/individual/Notebook BC 459 - Campo Alegre",
+    "notebooks/individual/Notebook BC 495 - El Bosque",
+    "notebooks/individual/Notebook BC 496 - Iwanna",
+    "notebooks/individual/Notebook BC 514 - Centro Comercial Único",
+    "notebooks/individual/Notebook BC 523 - Olímpica",
+    "notebooks/individual/Notebook BC 534 - Buganviles",
+    "notebooks/individual/Notebook BC 613 - La America",
+    "notebooks/individual/Notebook BC 656 - Mayales",
+    "notebooks/individual/Notebook BC 659 - Girardot",
+    "notebooks/individual/Notebook BC 678 - Paseo de la Castellana",
+    "notebooks/individual/Notebook BC 705 - El Bagre",
+    "notebooks/individual/Notebook BC 749 - Santa Monica",
+    "notebooks/individual/Notebook BC 750 - Roosevelt",
+    "notebooks/individual/Notebook BC 764 - Jamundí",
+    "notebooks/individual/Notebook BC 776 - Lebrija",
+    "notebooks/individual/Notebook BC 787 - Bocagrande Carrera Tercera",
+    "notebooks/individual/Notebook BC 789 - Manga",
+    "notebooks/individual/Notebook BC 792 - Paseo del comercio",
+    "notebooks/individual/Notebook BC 793 - Profesionales",
+    "notebooks/individual/Notebook BC 796 - Girón",
+    "notebooks/individual/Notebook BC 799 - Floridablanca",
+    "notebooks/individual/Notebook BC 816 - Calle 10",
+    "notebooks/individual/Notebook BC 824 - Ventura Plaza",
+    "notebooks/individual/Notebook BC 825 - Astrocentro",
+    "notebooks/individual/Notebook BC 829 - Unicentro Cali",
+    "notebooks/individual/Notebook BC 834 - San Mateo",
+    "notebooks/individual/Notebook BC 863 - Los Patios",
+    "notebooks/individual/Notebook BC 524 - S.A. Valledupar",
+    "notebooks/individual/Notebook BC 821 GRANADA CALI",
+    "notebooks/individual/Notebook BC - Sede Adm Twins bay"
+]
+
+pdf_exporter = PDFExporter()
+
+for nb in notebooks:
+    nb_path = f"{nb}.ipynb"  # Asegúrate de que la ruta sea correcta
+    if os.path.exists(nb_path):  # Verifica si el archivo existe
+        with open(nb_path) as f:
+            nb_node = nbformat.read(f, as_version=4)
+    
+        # Exporta a PDF
+        (body, resources) = pdf_exporter.from_notebook_node(nb_node)
+        
+        # Guarda el archivo PDF
+        pdf_path = f"{nb}.pdf"
+        with open(pdf_path, "wb") as pdf_f:
+            pdf_f.write(body)
+        
+        print(f"Convertido: {nb_path} a {pdf_path}")
+    else:
+        print(f"No encontrado: {nb_path}")
+------------------
+
+[1;31m-------------------------------------------------------------------[0m
+[1;31mPandocMissing[0m                     Traceback (most recent call last)
+Cell [1;32mIn[1], line 69[0m
+[0;32m     66[0m     nb_node [38;5;241m=[39m nbformat[38;5;241m.[39mread(f, as_version[38;5;241m=[39m[38;5;241m4[39m)
+[0;32m     68[0m [38;5;66;03m# Exporta a PDF[39;00m
+[1;32m---> 69[0m (body, resources) [38;5;241m=[39m [43mpdf_exporter[49m[38;5;241;43m.[39;49m[43mfrom_notebook_node[49m[43m([49m[43mnb_node[49m[43m)[49m
+[0;32m     71[0m [38;5;66;03m# Guarda el archivo PDF[39;00m
+[0;32m     72[0m pdf_path [38;5;241m=[39m [38;5;124mf[39m[38;5;124m"[39m[38;5;132;01m{[39;00mnb[38;5;132;01m}[39;00m[38;5;124m.pdf[39m[38;5;124m"[39m
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\exporters\pdf.py:181[0m, in [0;36mPDFExporter.from_notebook_node[1;34m(self, nb, resources, **kw)[0m
+[0;32m    180[0m [38;5;28;01mdef[39;00m [38;5;21mfrom_notebook_node[39m([38;5;28mself[39m, nb, resources[38;5;241m=[39m[38;5;28;01mNone[39;00m, [38;5;241m*[39m[38;5;241m*[39mkw):
+[1;32m--> 181[0m     latex, resources [38;5;241m=[39m [38;5;28msuper[39m()[38;5;241m.[39mfrom_notebook_node(nb, resources[38;5;241m=[39mresources, [38;5;241m*[39m[38;5;241m*[39mkw)
+[0;32m    182[0m     [38;5;66;03m# set texinputs directory, so that local files will be found[39;00m
+[0;32m    183[0m     [38;5;28;01mif[39;00m resources [38;5;129;01mand[39;00m resources[38;5;241m.[39mget([38;5;124m"[39m[38;5;124mmetadata[39m[38;5;124m"[39m, {})[38;5;241m.[39mget([38;5;124m"[39m[38;5;124mpath[39m[38;5;124m"[39m):
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\exporters\latex.py:74[0m, in [0;36mLatexExporter.from_notebook_node[1;34m(self, nb, resources, **kw)[0m
+[0;32m     69[0m highlight_code [38;5;241m=[39m [38;5;28mself[39m[38;5;241m.[39mfilters[38;5;241m.[39mget(
+[0;32m     70[0m     [38;5;124m"[39m[38;5;124mhighlight_code[39m[38;5;124m"[39m, Highlight2Latex(pygments_lexer[38;5;241m=[39mlexer, parent[38;5;241m=[39m[38;5;28mself[39m)
+[0;32m     71[0m )
+[0;32m     72[0m [38;5;28mself[39m[38;5;241m.[39mregister_filter([38;5;124m"[39m[38;5;124mhighlight_code[39m[38;5;124m"[39m, highlight_code)
+[1;32m---> 74[0m [38;5;28;01mreturn[39;00m [38;5;28msuper[39m()[38;5;241m.[39mfrom_notebook_node(nb, resources, [38;5;241m*[39m[38;5;241m*[39mkw)
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\exporters\templateexporter.py:413[0m, in [0;36mTemplateExporter.from_notebook_node[1;34m(self, nb, resources, **kw)[0m
+[0;32m    399[0m resources[[38;5;124m"[39m[38;5;124mglobal_content_filter[39m[38;5;124m"[39m] [38;5;241m=[39m {
+[0;32m    400[0m     [38;5;124m"[39m[38;5;124minclude_code[39m[38;5;124m"[39m: [38;5;129;01mnot[39;00m [38;5;28mself[39m[38;5;241m.[39mexclude_code_cell,
+[0;32m    401[0m     [38;5;124m"[39m[38;5;124minclude_markdown[39m[38;5;124m"[39m: [38;5;129;01mnot[39;00m [38;5;28mself[39m[38;5;241m.[39mexclude_markdown,
+[1;32m   (...)[0m
+[0;32m    409[0m     [38;5;124m"[39m[38;5;124mno_prompt[39m[38;5;124m"[39m: [38;5;28mself[39m[38;5;241m.[39mexclude_input_prompt [38;5;129;01mand[39;00m [38;5;28mself[39m[38;5;241m.[39mexclude_output_prompt,
+[0;32m    410[0m }
+[0;32m    412[0m [38;5;66;03m# Top level variables are passed to the template_exporter here.[39;00m
+[1;32m--> 413[0m output [38;5;241m=[39m [38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mtemplate[49m[38;5;241;43m.[39;49m[43mrender[49m[43m([49m[43mnb[49m[38;5;241;43m=[39;49m[43mnb_copy[49m[43m,[49m[43m [49m[43mresources[49m[38;5;241;43m=[39;49m[43mresources[49m[43m)[49m
+[0;32m    414[0m output [38;5;241m=[39m output[38;5;241m.[39mlstrip([38;5;124m"[39m[38;5;130;01m\r[39;00m[38;5;130;01m\n[39;00m[38;5;124m"[39m)
+[0;32m    415[0m [38;5;28;01mreturn[39;00m output, resources
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\jinja2\environment.py:1301[0m, in [0;36mTemplate.render[1;34m(self, *args, **kwargs)[0m
+[0;32m   1299[0m     [38;5;28;01mreturn[39;00m [38;5;28mself[39m[38;5;241m.[39menvironment[38;5;241m.[39mconcat([38;5;28mself[39m[38;5;241m.[39mroot_render_func(ctx))  [38;5;66;03m# type: ignore[39;00m
+[0;32m   1300[0m [38;5;28;01mexcept[39;00m [38;5;167;01mException[39;00m:
+[1;32m-> 1301[0m     [38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43menvironment[49m[38;5;241;43m.[39;49m[43mhandle_exception[49m[43m([49m[43m)[49m
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\jinja2\environment.py:936[0m, in [0;36mEnvironment.handle_exception[1;34m(self, source)[0m
+[0;32m    931[0m [38;5;250m[39m[38;5;124;03m"""Exception handling helper.  This is used internally to either raise[39;00m
+[0;32m    932[0m [38;5;124;03mrewritten exceptions or return a rendered traceback for the template.[39;00m
+[0;32m    933[0m [38;5;124;03m"""[39;00m
+[0;32m    934[0m [38;5;28;01mfrom[39;00m [38;5;21;01m.[39;00m[38;5;21;01mdebug[39;00m [38;5;28;01mimport[39;00m rewrite_traceback_stack
+[1;32m--> 936[0m [38;5;28;01mraise[39;00m rewrite_traceback_stack(source[38;5;241m=[39msource)
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\index.tex.j2:8[0m, in [0;36mtop-level template code[1;34m()[0m
+[0;32m      6[0m 
+[0;32m      7[0m ((=- Inherit from the specified cell style. -=))
+[1;32m----> 8[0m ((* extends cell_style *))
+[0;32m      9[0m 
+[0;32m     10[0m 
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\style_jupyter.tex.j2:176[0m, in [0;36mtop-level template code[1;34m()[0m
+[0;32m    174[0m     ((*- if (resources.global_content_filter.include_output_prompt and prompt == 'Out')
+[0;32m    175[0m          or (resources.global_content_filter.include_input_prompt  and prompt == 'In' ) *))
+[1;32m--> 176[0m \prompt{(((prompt)))}{(((prompt_color)))}{(((execution_count)))}{(((extra_space)))}
+[0;32m    177[0m     ((*- endif -*))
+[0;32m    178[0m ((*- endmacro *))
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\base.tex.j2:7[0m, in [0;36mtop-level template code[1;34m()[0m
+[0;32m      5[0m override this.-=))
+[0;32m      6[0m 
+[1;32m----> 7[0m ((*- extends 'document_contents.tex.j2' -*))
+[0;32m      8[0m 
+[0;32m      9[0m %===============================================================================
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\document_contents.tex.j2:51[0m, in [0;36mtop-level template code[1;34m()[0m
+[0;32m     49[0m ((* macro draw_figure(filename) -*))
+[0;32m     50[0m ((* set filename = filename | posix_path *))
+[1;32m---> 51[0m ((*- block figure scoped -*))
+[0;32m     52[0m     \begin{center}
+[0;32m     53[0m     \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{((( filename )))}
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\display_priority.j2:5[0m, in [0;36mtop-level template code[1;34m()[0m
+[0;32m      3[0m 
+[0;32m      4[0m 
+[1;32m----> 5[0m ((*- extends 'null.j2' -*))
+[0;32m      6[0m 
+[0;32m      7[0m ((=display data priority=))
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\null.j2:30[0m, in [0;36mtop-level template code[1;34m()[0m
+[0;32m     28[0m ((*- block header -*))
+[0;32m     29[0m ((*- endblock header -*))
+[1;32m---> 30[0m ((*- block body -*))
+[0;32m     31[0m ((*- for cell in nb.cells -*))
+[0;32m     32[0m     ((*- block any_cell scoped -*))
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\base.tex.j2:215[0m, in [0;36mblock 'body'[1;34m()[0m
+[0;32m    213[0m ((* endblock predoc *))
+[0;32m    214[0m 
+[1;32m--> 215[0m ((( super() )))
+[0;32m    216[0m 
+[0;32m    217[0m % Add a bibliography block to the postdoc
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\null.j2:32[0m, in [0;36mblock 'body'[1;34m()[0m
+[0;32m     30[0m ((*- block body -*))
+[0;32m     31[0m ((*- for cell in nb.cells -*))
+[1;32m---> 32[0m     ((*- block any_cell scoped -*))
+[0;32m     33[0m         ((*- if cell.cell_type == 'code'-*))
+[0;32m     34[0m             ((*- if resources.global_content_filter.include_code -*))
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\null.j2:85[0m, in [0;36mblock 'any_cell'[1;34m()[0m
+[0;32m     83[0m ((*- elif cell.cell_type in ['markdown'] -*))
+[0;32m     84[0m     ((*- if resources.global_content_filter.include_markdown and not cell.get("transient",{}).get("remove_source", false) -*))
+[1;32m---> 85[0m         ((*- block markdowncell scoped-*)) ((*- endblock markdowncell -*))
+[0;32m     86[0m     ((*- endif -*))
+[0;32m     87[0m ((*- elif cell.cell_type in ['raw'] -*))
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\share\jupyter\nbconvert\templates\latex\document_contents.tex.j2:68[0m, in [0;36mblock 'markdowncell'[1;34m()[0m
+[0;32m     66[0m % Render markdown
+[0;32m     67[0m ((* block markdowncell scoped *))
+[1;32m---> 68[0m     ((( cell.source | citation2latex | strip_files_prefix | convert_pandoc('markdown+tex_math_double_backslash', 'json',extra_args=[]) | resolve_references | convert_pandoc('json','latex'))))
+[0;32m     69[0m ((* endblock markdowncell *))
+[0;32m     70[0m 
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\filters\pandoc.py:24[0m, in [0;36mconvert_pandoc[1;34m(source, from_format, to_format, extra_args)[0m
+[0;32m      4[0m [38;5;28;01mdef[39;00m [38;5;21mconvert_pandoc[39m(source, from_format, to_format, extra_args[38;5;241m=[39m[38;5;28;01mNone[39;00m):
+[0;32m      5[0m [38;5;250m    [39m[38;5;124;03m"""Convert between any two formats using pandoc.[39;00m
+[0;32m      6[0m 
+[0;32m      7[0m [38;5;124;03m    This function will raise an error if pandoc is not installed.[39;00m
+[1;32m   (...)[0m
+[0;32m     22[0m [38;5;124;03m        Output as returned by pandoc.[39;00m
+[0;32m     23[0m [38;5;124;03m    """[39;00m
+[1;32m---> 24[0m     [38;5;28;01mreturn[39;00m [43mpandoc[49m[43m([49m[43msource[49m[43m,[49m[43m [49m[43mfrom_format[49m[43m,[49m[43m [49m[43mto_format[49m[43m,[49m[43m [49m[43mextra_args[49m[38;5;241;43m=[39;49m[43mextra_args[49m[43m)[49m
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\utils\pandoc.py:51[0m, in [0;36mpandoc[1;34m(source, fmt, to, extra_args, encoding)[0m
+[0;32m     48[0m     cmd[38;5;241m.[39mextend(extra_args)
+[0;32m     50[0m [38;5;66;03m# this will raise an exception that will pop us out of here[39;00m
+[1;32m---> 51[0m [43mcheck_pandoc_version[49m[43m([49m[43m)[49m
+[0;32m     53[0m [38;5;66;03m# we can safely continue[39;00m
+[0;32m     54[0m p [38;5;241m=[39m subprocess[38;5;241m.[39mPopen(cmd, stdin[38;5;241m=[39msubprocess[38;5;241m.[39mPIPE, stdout[38;5;241m=[39msubprocess[38;5;241m.[39mPIPE)
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\utils\pandoc.py:99[0m, in [0;36mcheck_pandoc_version[1;34m()[0m
+[0;32m     96[0m [38;5;28;01mif[39;00m check_pandoc_version[38;5;241m.[39m_cached [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m:
+[0;32m     97[0m     [38;5;28;01mreturn[39;00m check_pandoc_version[38;5;241m.[39m_cached
+[1;32m---> 99[0m v [38;5;241m=[39m [43mget_pandoc_version[49m[43m([49m[43m)[49m
+[0;32m    100[0m [38;5;28;01mif[39;00m v [38;5;129;01mis[39;00m [38;5;28;01mNone[39;00m:
+[0;32m    101[0m     warnings[38;5;241m.[39mwarn(
+[0;32m    102[0m         [38;5;124m"[39m[38;5;124mSorry, we cannot determine the version of pandoc.[39m[38;5;130;01m\n[39;00m[38;5;124m"[39m
+[0;32m    103[0m         [38;5;124m"[39m[38;5;124mPlease consider reporting this issue and include the[39m[38;5;124m"[39m
+[1;32m   (...)[0m
+[0;32m    106[0m         stacklevel[38;5;241m=[39m[38;5;241m2[39m,
+[0;32m    107[0m     )
+
+File [1;32m~\AppData\Local\anaconda3\envs\bancolombia\lib\site-packages\nbconvert\utils\pandoc.py:76[0m, in [0;36mget_pandoc_version[1;34m()[0m
+[0;32m     74[0m [38;5;28;01mif[39;00m __version [38;5;129;01mis[39;00m [38;5;28;01mNone[39;00m:
+[0;32m     75[0m     [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m shutil[38;5;241m.[39mwhich([38;5;124m"[39m[38;5;124mpandoc[39m[38;5;124m"[39m):
+[1;32m---> 76[0m         [38;5;28;01mraise[39;00m PandocMissing()
+[0;32m     78[0m     out [38;5;241m=[39m subprocess[38;5;241m.[39mcheck_output([[38;5;124m"[39m[38;5;124mpandoc[39m[38;5;124m"[39m, [38;5;124m"[39m[38;5;124m-v[39m[38;5;124m"[39m])
+[0;32m     79[0m     out_lines [38;5;241m=[39m out[38;5;241m.[39msplitlines()
+
+[1;31mPandocMissing[0m: Pandoc wasn't found.
+Please check that pandoc is installed:
+https://pandoc.org/installing.html
+PandocMissing: Pandoc wasn't found.
+Please check that pandoc is installed:
+https://pandoc.org/installing.html
+
