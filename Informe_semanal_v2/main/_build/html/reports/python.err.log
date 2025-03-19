@@ -97,8 +97,8 @@ for nb in notebooks:
         print(f"No encontrado: {nb_path}")
 ------------------
 
-[1;31m-------------------------------------------------------------------[0m
-[1;31mPandocMissing[0m                     Traceback (most recent call last)
+[1;31m---------------------------------------------------------------------------[0m
+[1;31mPandocMissing[0m                             Traceback (most recent call last)
 Cell [1;32mIn[1], line 69[0m
 [0;32m     66[0m     nb_node [38;5;241m=[39m nbformat[38;5;241m.[39mread(f, as_version[38;5;241m=[39m[38;5;241m4[39m)
 [0;32m     68[0m [38;5;66;03m# Exporta a PDF[39;00m

@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 03 al 09 de Marzo 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 10 al 16 de Marzo 2025:
 
 <!-- ## BC 044 - Piedecuesta
 s
@@ -26,31 +26,31 @@ s
 
 ## BC 66 - Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 49.37 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 30.36 kWh/dia, lo que representa un 12 % de aumento respecto a la línea base.
 
 <!--  Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas. -->
 
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
-
+<!-- 
 ## BC 78 - El Cacique 
 
-- La sede presenta una variación en el patrón de consumo a partir del 7 de febrero, se debe validar si estan realizando trabajos operativos, de lo contrario revisar la automatización del sistema.
-
+- La sede presenta una variación en el patrón de consumo a partir del 7 de febrero, se debe validar si estan realizando trabajos operativos, de lo contrario revisar la automatización del sistema. -->
+<!-- 
 ## BC 88 - Cúcuta
 
-- La sede presenta un cambio en el patrón de consumo en la carga totalizadora correspondiente a los consumos nocturnos a partir del 25 de enero, se sugiere validar si no se presentaron trabajos operativos.
+- La sede presenta un cambio en el patrón de consumo en la carga totalizadora correspondiente a los consumos nocturnos a partir del 25 de enero, se sugiere validar si no se presentaron trabajos operativos.  -->
 
 <!--la carga de aire muy alta se debe revisar-->
-<!--
+
 ## BC 90 - Megamall
 
-- Se evidencia una diferencia del consumo promedio diario de 5.95 kWh/dia, lo que representa un 4 % de aumento respecto a la línea base. Se registra consumos nocturnos domingo 24 noviembre.-->
+- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.
 
-<!--
+
 ## BC 185 - Llano Grande Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 16.13 kWh/dia, lo que representa un 10 % de aumento respecto a la línea base. se sugiere validar la automatización del sistema AA en horario nocturno.-->
+- Se presenta cambios en el patrón de consumo a partir del 11 de marzo.
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -63,7 +63,7 @@ s
 
 ## BC 197 - Guatapuri
 
-- La sede presenta novedad "patrón de consumo atípico" validar porque los AA no se estan apagando o si se estan realizando trabajos operativos.
+- La sede normaliza novedad "patrón de consumo atípico" a partir del 11 de marzo.
 <!-- 
 - La sede mejoro novedad del apagado del sistema de aire acondicionado pasando de las 21:00 horas a las 18:00 horas.
 
@@ -78,7 +78,9 @@ s
 
 <!-- Cambio patrón de consumo, se presenta disminución a partir del 20 abril, sistemas de aires apagan por completo, validar que correctivos se realizaron. -->
 
-<!-- ## BC 205 - Villa Colombia -->
+## BC 205 - Villa Colombia
+
+- La sede presento consumo los fines de semana, se debe validar la automatización del sistema.
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
@@ -131,17 +133,21 @@ s
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- Se queda aire encendido el 1 mayo. -->
-<!--
+
 ## BC 371 - Caucasia 
 
-- Se normaliza la medida totalizadora a partir del 27 enero.-->
+- La sede presento novedad de consumos atípicos para el 11 y 12 de marzo, se sugiere validar si se presentaron operativos.
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
 ## BC 398 - Mariquita
 
+- La sede presenta novedad en la medida totalizadora, se debe validar la medida en sitio.
+
+
+<!--
 - La sede presenta novedad "consumos los domingo" lo cual se sugiere validar la automatización del sistema de AA.
 
-<!-- ## BC 424 - Honda
+ ## BC 424 - Honda
 
 - Se ha identificado una novedad en la sede en la medida totalizadora, donde el consumo de aire acondicionado es superior al registrado en el totalizador. Se debe revisar medida en sitio. pendiente para fase 2 .. esto se deteto es porque tiene una fase caida se debe validar en sitio-->
 
@@ -172,11 +178,11 @@ s
 ## BC 495 - El Bosque
 
 - La sede presento un cambio en el patrón de consumos del 27 al 31 de enero, toca validar si se presentaron trabajos operativos. .-->
-
+<!--
 ## BC 496 - Iwanna
 
 - Se suguiere revisar la automatización de los equipos de AA, debido a que se presenta una cambio en los consumos nocturnos.
-
+.-->
 <!-- Se ha observado un cambio en el patrón de consumo, con un aumento en el consumo típico en comparación con su línea base. Se sugiere validar posibles causas de este incremento. -->
 <!--
 ## BC 514 - Centro Comercial Único
@@ -221,7 +227,9 @@ s
 
 <!-- Se desmonto monitoreo por adecuación en la sede. queda para la fase 2 -->
 
-<!-- ## BC 749 - Santa Monica -->
+## BC 749 - Santa Monica
+
+- La sede santa monica presenta novedad los fines de semana, se debe validar la automatización del sistema.
 <!--
 ## BC 750 - Roosevelt
 
