@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 10 al 16 de Marzo 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 17 al 23 de Marzo 2025:
 
 <!-- ## BC 044 - Piedecuesta
 s
@@ -26,7 +26,7 @@ s
 
 ## BC 66 - Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 30.36 kWh/dia, lo que representa un 12 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 41.53 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
 
 <!--  Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas. -->
 
@@ -42,15 +42,15 @@ s
 - La sede presenta un cambio en el patrón de consumo en la carga totalizadora correspondiente a los consumos nocturnos a partir del 25 de enero, se sugiere validar si no se presentaron trabajos operativos.  -->
 
 <!--la carga de aire muy alta se debe revisar-->
-
+<!-- 
 ## BC 90 - Megamall
 
-- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.
+- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.-->
 
 
 ## BC 185 - Llano Grande Palmira
 
-- Se presenta cambios en el patrón de consumo a partir del 11 de marzo.
+- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -63,7 +63,7 @@ s
 
 ## BC 197 - Guatapuri
 
-- La sede normaliza novedad "patrón de consumo atípico" a partir del 11 de marzo.
+- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.
 <!-- 
 - La sede mejoro novedad del apagado del sistema de aire acondicionado pasando de las 21:00 horas a las 18:00 horas.
 
@@ -77,10 +77,10 @@ s
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
 
 <!-- Cambio patrón de consumo, se presenta disminución a partir del 20 abril, sistemas de aires apagan por completo, validar que correctivos se realizaron. -->
-
+<!--
 ## BC 205 - Villa Colombia
 
-- La sede presento consumo los fines de semana, se debe validar la automatización del sistema.
+- La sede presento consumo los fines de semana, se debe validar la automatización del sistema.-->
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
@@ -99,10 +99,9 @@ s
 
 - La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.-->
 
-<!--## BC 253 - Puerta del Norte
+## BC 253 - Puerta del Norte
 
-- Se evidencia un cambio en el patrón de consumo a partir del 19 abril , se debe validar si la sede presenta trabajos operativos.
--->
+- La sede presenta disminución en el consumo de energía asociada a la carga totalizadora, se sugiere validar si se estan presentando trabajos operativos
 <!--
 ## BC 291 - Las Palmas
 
@@ -133,10 +132,10 @@ s
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- Se queda aire encendido el 1 mayo. -->
-
+<!--
 ## BC 371 - Caucasia 
 
-- La sede presento novedad de consumos atípicos para el 11 y 12 de marzo, se sugiere validar si se presentaron operativos.
+- La sede presento novedad de consumos atípicos para el 11 y 12 de marzo, se sugiere validar si se presentaron operativos.-->
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
 ## BC 398 - Mariquita
@@ -162,10 +161,10 @@ s
 <!-- ## BC 453 - Pitalito
 
 - Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
-
+<!--
 ## BC 454 - Quinta Avenida
 
-- La sede presenta novedad "consumos sabado y domingo" lo cual se sugiere validar la automatización del sistema de AA.
+- La sede presenta novedad "consumos sabado y domingo" lo cual se sugiere validar la automatización del sistema de AA.-->
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -195,10 +194,10 @@ s
 
 <!-- sin datos desde marzo 7 -->
 
-<!--
+
 ## BC 534 - Buganviles
 
-- La sede presenta novedad en la medida totalizadora, se debe cambiar medidor. Validar la medida ya esta ok
+- La sede presenta novedad en la medida totalizadora, se debe validar medida en sitio.
 
 -->
 <!-- ## BC 613 - La America
@@ -218,10 +217,10 @@ s
 
 - La sede presentó consumos atípicos el viernes 20 de septiembre, se sugiere validar si se realizaron trabajos operativos.-->
 
-<!--
+
 ## BC 705 - El Bagre
 
-- La sede presenta consumos nocturnos durante el fin de semana del 23 y 24 de noviembre. Se sugiere validar si se realizaron trabajos operativos en esas fechas."-->
+- La sede presenta consumos para el fin de semana, se sugiere validar horario de operación.
 
 <!-- ## BC 741 - Calima -->
 
@@ -299,11 +298,11 @@ s
 
 <!-- Se normaliza medida para 4 julio. -->
 
-
+<!--
 ## BC 834 - San Mateo
 
 - La sede presenta novedad "consumos sabado y domingo" lo cual se sugiere validar la automatización del sistema de AA.
-
+-->
 <!-- 
 - El sistema de AA operó el lunes 13 mayo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. -->
 <!-- 
