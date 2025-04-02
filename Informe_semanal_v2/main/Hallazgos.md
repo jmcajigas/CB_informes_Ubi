@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 17 al 23 de Marzo 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 24 al 30 de Marzo 2025:
 
 <!-- ## BC 044 - Piedecuesta
 s
@@ -26,7 +26,7 @@ s
 
 ## BC 66 - Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 41.53 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 28.38 kWh/dia, lo que representa un 11 % de aumento respecto a la línea base.
 
 <!--  Se atiende novedad de apagado de aires a las 22 horas , la sede empieza a reducir su consumo significativamente a partir de las 18 horas. -->
 
@@ -47,10 +47,10 @@ s
 
 - La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.-->
 
-
+<!--
 ## BC 185 - Llano Grande Palmira
 
-- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.
+- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos..-->
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -63,8 +63,10 @@ s
 
 ## BC 197 - Guatapuri
 
-- La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.
-<!-- 
+- La sede presenta novedad consumo los fines de semana, se identifica que corresponde al encendido de las torres de enfriamiento , se notifica al CC.
+
+- El sistema de AA operó el lunes 24 marzo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+<!--
 - La sede mejoro novedad del apagado del sistema de aire acondicionado pasando de las 21:00 horas a las 18:00 horas.
 
 - La sede corrige la anomalía en el patrón de consumos atípicos durante el horario nocturno.
@@ -98,10 +100,10 @@ s
 ## BC 216 - Sabana de Torres 
 
 - La sede presenta una novedad en el encendido del sistema de AA. Es necesario verificar que no se estén realizando trabajos operativos.-->
-
+<!--
 ## BC 253 - Puerta del Norte
 
-- La sede presenta disminución en el consumo de energía asociada a la carga totalizadora, se sugiere validar si se estan presentando trabajos operativos
+- La sede presenta disminución en el consumo de energía asociada a la carga totalizadora, se sugiere validar si se estan presentando trabajos operativos.-->
 <!--
 ## BC 291 - Las Palmas
 
@@ -114,20 +116,19 @@ s
 ## BC 302 - Quebrada Seca
 
 - La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede. -->
-<!--
+
 ## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el lunes 11 noviembre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
+- El sistema de AA operó el lunes 24 marzo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos
 
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
-<!--
+
 ## BC 311 - Bello
 
-- El sistema de AA operó el lunes 14 octubre, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
--->
+- El sistema de AA operó el lunes 24 marzo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 <!--
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
@@ -137,12 +138,12 @@ s
 
 - La sede presento novedad de consumos atípicos para el 11 y 12 de marzo, se sugiere validar si se presentaron operativos.-->
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
-
+<!--
 ## BC 398 - Mariquita
 
 - La sede presenta novedad en la medida totalizadora, se debe validar la medida en sitio.
 
-
+-->
 <!--
 - La sede presenta novedad "consumos los domingo" lo cual se sugiere validar la automatización del sistema de AA.
 
@@ -161,10 +162,10 @@ s
 <!-- ## BC 453 - Pitalito
 
 - Se evidencia una diferencia del consumo promedio diario de 41.14 kWh/dia, lo que representa un 17 % de aumento respecto a la línea base. El aumento se presenta entre las 06:00 hasta las 14:00 horas.-->
-<!--
+
 ## BC 454 - Quinta Avenida
 
-- La sede presenta novedad "consumos sabado y domingo" lo cual se sugiere validar la automatización del sistema de AA.-->
+- La sede corrigue novedad "consumos sabado y domingo".
 
 <!-- Se debe validar consumo el 2 oct se ve muy alto. -->
 
@@ -199,12 +200,14 @@ s
 
 - La sede presenta novedad en la medida totalizadora, se debe validar medida en sitio.
 
--->
+
 <!-- ## BC 613 - La America
 
 - Se presentó un cambio en el consumo nocturno para el 12 de julio. Se deben validar temas de automatización en la sede. -->
 
-<!-- ## BC 656 - Mayales -->
+## BC 656 - Mayales
+
+- La sede cambio su patrón de consumo al medio día , se debe validar configuración del sistema de AA.
 
 <!-- ## BC 659 - Girardot
 
@@ -220,7 +223,7 @@ s
 
 ## BC 705 - El Bagre
 
-- La sede presenta consumos para el fin de semana, se sugiere validar horario de operación.
+- La sede no presenta automatización , se estan presentando trabajos operativos.
 
 <!-- ## BC 741 - Calima -->
 
@@ -228,7 +231,7 @@ s
 
 ## BC 749 - Santa Monica
 
-- La sede santa monica presenta novedad los fines de semana, se debe validar la automatización del sistema.
+- La sede santa corrigue novedad los fines de semana, se debe validar la automatización del sistema.
 <!--
 ## BC 750 - Roosevelt
 
