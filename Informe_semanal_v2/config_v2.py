@@ -4,9 +4,9 @@ NIGHT_HOURS = [0, 1, 2, 3, 4, 5, 19, 20, 21, 22, 23]
 # last baseline date must be the same
 # date as start of study. Basically all
 # dates must be mondays.
-BASELINE = ['2024-12-10', '2025-03-24']
-STUDY = ['2025-03-24', '2025-03-31']
-PAST_WEEK = ['2025-03-17', '2025-03-24']
+BASELINE = ['2024-12-10', '2025-03-31']
+STUDY = ['2025-03-31', '2025-04-07']
+PAST_WEEK = ['2025-03-24', '2025-03-31']
 
 DATE_INTERVALS_TO_DISCARD = {
 }
