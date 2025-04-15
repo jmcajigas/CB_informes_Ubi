@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 31 de Marzo al 6 de Abril 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 7 al 13 de Abril 2025:
 
 <!-- ## BC 044 - Piedecuesta
 s
@@ -32,8 +32,11 @@ s
 
 
 <!--  La sede presenta un cambio en su patrón de consumo a partir del 24 de octubre. Se debe validar si se están presentando trabajos en la sede; de lo contrario, se sugiere revisar la medida en el sitio. -->
-<!-- 
+
 ## BC 78 - El Cacique 
+
+- Se evidencia una diferencia del consumo promedio diario de 13.01 kWh/dia, lo que representa un 9 % de aumento respecto a la línea base.
+ <!-- 
 
 - La sede presenta una variación en el patrón de consumo a partir del 7 de febrero, se debe validar si estan realizando trabajos operativos, de lo contrario revisar la automatización del sistema. -->
 <!-- 
@@ -50,7 +53,7 @@ s
 
 ## BC 185 - Llano Grande Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 18.38 kWh/dia, lo que representa un 11 % de aumento respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 18.38 kWh/dia, lo que representa un 18% de aumento respecto a la línea base.
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -63,7 +66,9 @@ s
 
 ## BC 197 - Guatapuri
 
-- La sede presenta novedad consumo los fines de semana, se identifica que corresponde al encendido de las torres de enfriamiento , se notifica al CC.
+- La sede corrige novedad consumo los fines de semana, se identifica que corresponde al encendido de las torres de enfriamiento , se notifica al CC.
+
+- La sede presenta consumo nocturno para 10 y 11 de abril, se sugiere validar si no se presentaron trabajos  operativos.
 <!--
 - El sistema de AA operó el lunes 24 marzo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
 <!--
@@ -141,7 +146,7 @@ s
 
 ## BC 398 - Mariquita
  
-- La sede presenta novedad de encendido de AA, para el 4 y 5 de abril validar si no se presentaron trabajos operativos.
+- La sede presenta novedad de encendido de AA, para el 13 de abril validar si no se presentaron trabajos operativos.
 
 <!--
 - La sede presenta novedad en la medida totalizadora, se debe validar la medida en sitio.
@@ -298,7 +303,9 @@ s
 
 - El sistema de aire acondicionado operó el domingo 1 de diciembre, correspondiente a un día de fin de semana. Se recomienda validar con el personal de la sede el correcto procedimiento para el apagado de los equipos.-->
 
-<!-- ## BC 825 - Astrocentro -->
+## BC 825 - Astrocentro
+
+- La sede no presento consumo del 8 al 10 de abril , se sugiere validar si se presentaron trabajos operativos.
 
 <!--  ## BC 829 - Unicentro Cali -->
 
