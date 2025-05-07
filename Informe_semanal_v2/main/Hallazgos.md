@@ -5,11 +5,11 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 21 al 27 de Abril 2025:
-
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 28 de Abril al 4 mayo del 2025:
+<!--
 ## BC 044 - Piedecuesta
 
-- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. 
+- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. -->
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
@@ -141,11 +141,11 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - La sede presento novedad de consumos atípicos para el 11 y 12 de marzo, se sugiere validar si se presentaron operativos.-->
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
-<!--
+
 ## BC 398 - Mariquita
  
-- El sistema de AA operó el 17 y 18 abril que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
--->
+- El sistema de AA operó el 1 mayo que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+
 
 <!--
 - La sede presenta novedad en la medida totalizadora, se debe validar la medida en sitio.
@@ -168,7 +168,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 453 - Pitalito
 
-- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. 
+- La sede presenta consumo de energía para el fin de semana 3 y 4 mayo. 
 <!--
 ## BC 454 - Quinta Avenida
 
@@ -198,14 +198,14 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 523 - Olímpica
 
-- Se evidencia una diferencia del consumo promedio diario de 30.75 kWh/dia, lo que representa un 6 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 151.41 kWh/dia, lo que representa un 32 % de disminución respecto a la línea base.
 
 <!-- sin datos desde marzo 7 -->
 
-<!--
+
 ## BC 534 - Buganviles
 
-- Se normaliza noveda en la medida totalizadora, a partir del 4 abril.-->
+- El sistema de AA operó el 1 mayo que correspondía a días festivos. Se debe verificar la automatización del sistema de AA.
 
 
 <!-- ## BC 613 - La America
@@ -238,7 +238,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 749 - Santa Monica
 
-- La sede presenta consumo nocturno del 23 al 25 de abril, validar si no se presentaron trabajos operativos.
+- La sede presenta atípicos a partir del 3 de mayo se sugiere validar si no se presentaron trabajos operativos.
 <!--
 ## BC 750 - Roosevelt
 
