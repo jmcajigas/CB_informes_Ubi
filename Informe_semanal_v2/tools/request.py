@@ -2,7 +2,7 @@
 # this cell enables relative path imports
 import os
 from dotenv import load_dotenv
-import pickle
+import pickle   
 load_dotenv()
 _PROJECT_PATH: str = os.environ["_project_path"]
 _PICKLED_DATA_FILENAME: str = os.environ["_pickled_data_filename"]
@@ -73,7 +73,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # %%
 #blob_container = "Bancolombia"
-blob_name = r"data/data_weekly_report.pkl"
+blob_name = r"data/data_weekly_report_ok.pkl"
 downloader.blob_container = blob_container
 df1 = downloader.read_file_content_as_pickle(blob_name, blob_container)
 #bancolombia_pkl

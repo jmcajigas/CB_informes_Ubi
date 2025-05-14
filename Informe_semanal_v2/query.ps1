@@ -2,15 +2,15 @@
 #& C:/ProgramData/Anaconda3/shell/condabin/conda-hook.ps1; conda activate base
 #& /opt/anaconda3/shell/condabin/conda-hook.ps1; conda activate base
 #& /opt/anaconda3/shell/condabin/conda-hook.ps1; conda activate bancolombia
-& C://Users//operacioniopeldar//AppData//Local//anaconda3//condabin//conda-hook.ps1; conda activate base
-& \Users\operacioniopeldar\AppData\Local\anaconda3\condabin\conda-hook.ps1; conda activate base
-& C:/Users/operacioniopeldar/AppData/Local/anaconda3/condabin/conda-hook.ps1; conda activate bancolombia
+#& C:/Users/operacioniopeldar/AppData/Local/anaconda3/condabin/conda_hook.bat; conda activate bancolombia
+& "C:\Users\operacioniopeldar\AppData\Local\anaconda3\condabin\conda.bat" activate bancolombia
 
-# 2. Correr tools/request.ipynb para hacer el request a Ubidots.
+& python C:\Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2\tools\request.py
 
-& python Informe_semanal_v2/tools/request.py
 
-a
+& "C:\Users\operacioniopeldar\AppData\Local\anaconda3\python.exe" "C:\Digitalización\Bancolombia\CB_informes_Ubi\Informe_semanal_v2\tools\request.py"
+
+
 #& python Informe_semanal_v2/tools/request.py
 # 4. Borrar los notebooks individuales por sede (main/notebooks/individual)
 #& Remove-Item 'C:/Proyectos Digitalización/Bancolombia/CB_informes_Ubi/Informe_semanal_v2/main/notebooks/individual/*' -Recurse -Force
