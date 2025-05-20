@@ -5,11 +5,11 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 21 al 27 de Abril 2025:
-
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 12 al 18 mayo del 2025:
+<!--
 ## BC 044 - Piedecuesta
 
-- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. 
+- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. -->
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
@@ -66,7 +66,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 197 - Guatapuri
 
-- La sede presenta consumos atípicos para el 24 abril, se debe validar si no se presentaron trabajos operativos.
+- Se evidencia una diferencia del consumo promedio diario de 39.39 kWh/dia, lo que representa un 14 % de disminución respecto a la línea base.
 <!--
 - El sistema de AA operó el lunes 24 marzo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
 <!--
@@ -136,16 +136,16 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- Se queda aire encendido el 1 mayo. -->
-<!--
+
 ## BC 371 - Caucasia 
 
-- La sede presento novedad de consumos atípicos para el 11 y 12 de marzo, se sugiere validar si se presentaron operativos.-->
+- La sede presento novedad de consumos atípicos para el fin de semama, se sugiere validar si se presentaron operativos.
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
-<!--
+
 ## BC 398 - Mariquita
  
-- El sistema de AA operó el 17 y 18 abril que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
--->
+- El sistema de AA operó fin de semana. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+
 
 <!--
 - La sede presenta novedad en la medida totalizadora, se debe validar la medida en sitio.
@@ -165,10 +165,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 <!--El sistema de AA opera el 24 de septiembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede, se activa la alarma notificación. -->
 
 <!--consume mas el aire acondicionado que la medida de la frontera / pendiente reporar -->
-
+<!--
 ## BC 453 - Pitalito
 
-- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. 
+- La sede presenta consumo de energía para el fin de semana 3 y 4 mayo. -->
 <!--
 ## BC 454 - Quinta Avenida
 
@@ -198,14 +198,14 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 523 - Olímpica
 
-- Se evidencia una diferencia del consumo promedio diario de 30.75 kWh/dia, lo que representa un 6 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 78.33 kWh/dia, lo que representa un 16 % de disminución respecto a la línea base.
 
 <!-- sin datos desde marzo 7 -->
 
-<!--
+<!-- 
 ## BC 534 - Buganviles
 
-- Se normaliza noveda en la medida totalizadora, a partir del 4 abril.-->
+- El sistema de AA operó el 1 mayo que correspondía a días festivos. Se debe verificar la automatización del sistema de AA.-->
 
 
 <!-- ## BC 613 - La America
@@ -238,11 +238,11 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 749 - Santa Monica
 
-- La sede presenta consumo nocturno del 23 al 25 de abril, validar si no se presentaron trabajos operativos.
-<!--
+- La sede presenta atípicos a partir del 3 de mayo se sugiere validar si no se presentaron trabajos operativos.
+
 ## BC 750 - Roosevelt
 
-- El sistema de aire acondicionado operó durante el fin de semana; se sugiere validar la automatización del aire acondicionado.-->
+- El sistema de aire acondicionado operó durante el fin de semana; se sugiere validar la automatización del aire acondicionado.
 <!-- ## BC 764 - Jamundí
 
 - Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.-->
