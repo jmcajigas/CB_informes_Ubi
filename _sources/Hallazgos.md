@@ -5,7 +5,7 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 12 al 18 mayo del 2025:
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 19 al 25 mayo del 2025:
 <!--
 ## BC 044 - Piedecuesta
 
@@ -39,10 +39,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
  <!-- 
 
 - La sede presenta una variación en el patrón de consumo a partir del 7 de febrero, se debe validar si estan realizando trabajos operativos, de lo contrario revisar la automatización del sistema. -->
- 
+  <!-- 
 ## BC 88 - Cúcuta
 
-- La sede presenta consumos el 17 y 18 mayo correspondiente al fin de semana. se sugiere validar si se presentaron trabajos operativos.
+- La sede presenta consumos el 17 y 18 mayo correspondiente al fin de semana. se sugiere validar si se presentaron trabajos operativos.-->
 
 <!--la carga de aire muy alta se debe revisar-->
 <!-- 
@@ -53,7 +53,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 185 - Llano Grande Palmira
 
-- Se evidencia una diferencia del consumo promedio diario de 19.10 kWh/dia, lo que representa un 11 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 8.34 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base, debido a cambio en el patrón de consumo nocturno.
 
 <!--## - Se debe revisar el horario de apagado del sistema de aire acondicionado para los fines de semana, ya que se observa que está programado para después de las 16:00 horas. -->
 
@@ -66,7 +66,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 197 - Guatapuri
 
-- La sede presenta consumos atípicos entre la semana. Se sugiere verificar la automatización del AA.
+- Se evidencia una diferencia del consumo promedio diario de 20.72 kWh/dia, lo que representa un 8 % de disminución respecto a la línea base.
 <!--
 - El sistema de AA operó el lunes 24 marzo, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.  -->
 <!--
@@ -89,10 +89,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 <!-- Durante la semana pasada, el factor de potencia promedio estuvo en 0.27 lo que representa un consumo alto de energía reactiva, esto podría representar penalidades por parte del comercializador de energía. -->
 
-<!--
+
 ## BC 210 - Banca Colombia Cartagena
 
-- La sede presenta presenta consumos acorde a su historico, se normaliza novedad de baja demanda. -->
+- La sede presenta presenta consumos atípicos del 20 al 22 de mayo , se sugiere validar si no se presentaron trabajos operativos.
 
 <!--  La sede experimento un cambio en el patrón de consumo del 11 al 15 marzo, lo que representa un 27 % de aumento respecto a la línea base. Se sugiere validar si se presentaron trabajos en la sede. -->
 
@@ -136,16 +136,16 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - El sistema de AA operó el lunes 1 julio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.-->
 
 <!-- Se queda aire encendido el 1 mayo. -->
-
+<!--
 ## BC 371 - Caucasia 
 
 - La sede presento novedad de consumos atípicos entre el 12 y 13 de mayo, se sugiere validar si se presentaron operativos.
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
-
+<!--
 ## BC 398 - Mariquita
  
 - El sistema de AA operó fin de semana. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los fines de semana.
-
+-->
 
 <!--
 - La sede presenta novedad en la medida totalizadora, se debe validar la medida en sitio.
@@ -195,10 +195,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 ## BC 514 - Centro Comercial Único
 
 - La sede ha resuelto la incidencia relacionada con el apagado del aire acondicionado, corrigiendo el horario de las 21:00 horas a las 18:00 horas-->
-
+<!--
 ## BC 523 - Olímpica
 
-- Se evidencia una diferencia del consumo promedio diario de 22.42 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base.
+- Se evidencia una diferencia del consumo promedio diario de 22.42 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base.-->
 <!-- sin datos desde marzo 7 -->
 
  
@@ -234,10 +234,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 <!-- ## BC 741 - Calima -->
 
 <!-- Se desmonto monitoreo por adecuación en la sede. queda para la fase 2 -->
-
+<!--
 ## BC 749 - Santa Monica
 
-- La sede presenta atípicos a partir del 3 de mayo se sugiere validar si no se presentaron trabajos operativos.
+- La sede presenta atípicos a partir del 3 de mayo se sugiere validar si no se presentaron trabajos operativos.-->
 <!--
 ## BC 750 - Roosevelt
 
@@ -305,7 +305,9 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - La sede no presento consumo del 8 al 10 de abril , se sugiere validar si se presentaron trabajos operativos.-->
 
-<!--  ## BC 829 - Unicentro Cali -->
+<!--  ## BC 829 - Unicentro Cali
+Presenta novedad en la medida del AA
+ -->
 
 <!-- Se normaliza medida para 4 julio. -->
 
