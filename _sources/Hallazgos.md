@@ -5,11 +5,13 @@
 <!--<span style="font-size: smaller;"> Reporte semanal elaborado 02/01/2024</span> -->
 </div>
 
-A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 9 al 15 de junio del 2025:
-<!--
+A continuación, se informan las novedades del monitoreo energético en las sucursales correspondientes a la semana del 16 al 23 de junio del 2025:
+
 ## BC 044 - Piedecuesta
 
-- La sede presenta consumo de energía para el fin de semana 26 y 27 abril. -->
+- La sede presenta consumo de energía para el fin de semana 21 y 22 de junio.
+
+- La sede presenta encendido del sistema de aires el día 23 de junio que representa un día festivo.
 
 <!-- Se corrige novedad de la carga del AA, para el 2 de mayo se puede tomar sede como referencia. Carga del aire era muy pequeña -->
 
@@ -51,7 +53,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - La sede presenta novedad consumo los fines de semana, se debe validar si no se presentaron trabajos operativos.-->
 
 
-<!--## BC 185 - Llano Grande Palmira
+## BC 185 - Llano Grande Palmira
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 9.19 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base, debido a cambio en el patrón de consumo nocturno.
 
@@ -60,7 +62,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 <!-- La sede presenta un cambio en el patrón de consumo a partir del 24 de enero al 2 de febrero el cual ya fue normalizado. -->
 
-<!--- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó los días festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 
  <!-- Se evidencia una diferencia del consumo promedio diario de 8.23 kWh/dia, lo que representa un 5 % de disminución respecto a la línea base. -->
 
@@ -75,7 +77,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 -->
 - El sistema de aire acondicionado operó durante el fin de semana. Es necesario verificar la automatización del sistema AA.
 
-<!--- El sistema de AA operó el lunes 2 de junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el lunes 23 de junio, que correspondía a un día festivo. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 <!--  La sede corrige novedad en el horario de apagado de los aires acondicionados, pasando de las 21:00 horas a las 18:00 horas. -->
 
 <!-- Se debe validar el consumo de energía de la sede durante los fines de semana, ya que se observa un alto consumo en esos días. -->
@@ -121,16 +123,18 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 - La sede operó el día 28 de julio, que correspondió a un domingo. Se debe validar si no se realizaron trabajos en la sede. -->
 
-<!--## BC 306 - Barrancabermeja 
+## BC 306 - Barrancabermeja 
  
-- El sistema de AA operó el 2 junio que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
+- El sistema de AA operó el 23 junio que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 
 <!-- El sistema de AA operó el lunes 08 de enero, que correspondía a un día festivo. Se debe verificar, ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos. 
 
  Cambio en el patrón de consumo de la carga AA, la sede se encuentra en gestión (SOPORTICA - CELSIA). para la fase 2 se debe tener presente que le hace falta lo de holiday -->
 
 
-<!--## BC 311 - Bello
+## BC 311 - Bello
+
+- La sede presenta consumo de energía para el fin de semana 21 y 22 de junio.
 
 - El sistema de AA operó el 2 junio que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 <!--
@@ -140,7 +144,7 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 
 ## BC 371 - Caucasia 
 
-- La sede presento novedad de consumos atípicos entre el 9 y 11 de junio, se sugiere validar si se presentaron operativos.
+- La sede presento novedad de consumos atípicos entre el 17 y 19 de junio, se sugiere validar si se presentaron operativos.
 <!-- Se observó una variación en la medida AA a partir del 5 de julio, la cual fue corregida el 8 de agosto. Se realizará un seguimiento continuo para monitorear la estabilidad de la medida. -->
 
 ## BC 398 - Mariquita
@@ -154,6 +158,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 -->
 
 - La sede presenta novedad "consumos los domingo" lo cual se sugiere validar la automatización del sistema de AA.
+
+- La sede presenta consumo de energía para el fin de semana 21 y 22 de junio.
+
+- El sistema de AA operó el 2 junio que correspondía a días festivos. Se debe verificar ya que históricamente, la sede ha presentado problemas en la automatización durante los días festivos.
 
 <!--## BC 424 - Honda
 
@@ -183,10 +191,10 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 <!--## BC 459 - Campo Alegre
 
 - Se evidencia una diferencia del consumo promedio diario de 32.41 kWh/dia, lo que representa un 21 % de aumento respecto a la línea base.-->
-<!--
+
 ## BC 495 - El Bosque
 
-- La sede presento un cambio en el patrón de consumos del 27 al 31 de enero, toca validar si se presentaron trabajos operativos. .-->
+- La sede presento un cambio en el patrón de consumos del 17, 19 y 20 de junio, toca validar si se presentaron trabajos operativos.
 <!--
 ## BC 496 - Iwanna
 
@@ -245,7 +253,9 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 ## BC 750 - Roosevelt
 
 - El sistema de aire acondicionado operó durante el fin de semana; se sugiere validar la automatización del aire acondicionado.-->
-<!--## BC 764 - Jamundí
+## BC 764 - Jamundí
+
+- La sucuersal presenta consumos elevados en horario laboral los días 19 y 20 de junio.
 
 <!--- Se evidencia una diferencia del consumo promedio diario de 11.73 kWh/dia, lo que representa un 5 % de aumento respecto a la línea base. La sede presento un cambio en el patrón de consumos nocturnos, se sugiere validar la automatización de los equipos.-->
 
@@ -312,7 +322,8 @@ A continuación, se informan las novedades del monitoreo energético en las sucu
 - La sede no presento consumo del 8 al 10 de abril , se sugiere validar si se presentaron trabajos operativos.-->
 
 ## BC 829 - Unicentro Cali
-Presenta novedad en la medida del AA
+
+- Se recupera la medida de la sucursal.
 
 
 <!-- Se normaliza medida para 4 julio. -->
@@ -329,15 +340,15 @@ Presenta novedad en la medida del AA
 
 - La sede presenta un aumento en los consumos nocturnos desde el 29 de noviembre, lo que indica que los equipos de aire acondicionado permanecen encendidos. Se sugiere verificar si se están realizando trabajos asociados en campo.
 -->
-<!--## BC S.A Valledupar
+## BC S.A Valledupar
 
 - Se debe revisar la automatización del sistema AA para los días festivos.
 
 <!-- El sistema de AA opera el 13 de noviembre, que fue un día festivo. Se debe verificar si no se llevaron a cabo trabajos en la sede. -->
 
 <!--novedad en la carga de aire alto consumo-->
-<!-- ## BC S.A Granada
+## BC S.A Granada
 
-- Revisar las cargas del sistema de aire durante los días festivos, con el objetivo de optimizar el consumo de energía. -->
+- Revisar las cargas del sistema de aire durante los días festivos, con el objetivo de optimizar el consumo de energía.
 
 <!--Evaluar la automatización del sistema de aire acondicionado durante días festivos para optimizar el consumo de energía, opera sistema de AA festivo 20 julio. -->
